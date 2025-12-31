@@ -1,0 +1,48 @@
+# MkDocs
+site/
+.cache/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Documentation
+*.pdf
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+.tmp/
+
+# OS
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Backups
+*.bak
+*.backup
+*~
+
+# Node (if ever needed)
+node_modules/
+package-lock.json

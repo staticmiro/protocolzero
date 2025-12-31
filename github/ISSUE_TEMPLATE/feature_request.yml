@@ -1,0 +1,76 @@
+name: 💡 Feature Request / Improvement
+description: Suggest a new section, tool, or improvement to Protocol Zero
+title: "[FEATURE]: "
+labels: ["enhancement", "needs-review"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for contributing ideas to make Protocol Zero better!
+        
+  - type: dropdown
+    id: type
+    attributes:
+      label: Type of suggestion
+      options:
+        - New section/chapter
+        - New tool recommendation
+        - Improved explanation
+        - Additional example/use case
+        - New checklist or template
+        - Restructuring/reorganization
+        - Other improvement
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: What would you like to see?
+      description: Describe your suggestion in detail
+      placeholder: |
+        Example: "Add a section about securing cryptocurrency wallets"
+        Example: "Include a checklist for setting up a new phone for a child"
+    validations:
+      required: true
+
+  - type: textarea
+    id: rationale
+    attributes:
+      label: Why is this important?
+      description: What problem does this solve? Who would benefit?
+      placeholder: |
+        Example: "Many people now use crypto but Protocol Zero doesn't cover wallet security"
+        Example: "Parents need guidance on safe phone setup for kids, especially for first phones"
+    validations:
+      required: true
+
+  - type: textarea
+    id: existing-content
+    attributes:
+      label: Related existing content
+      description: Does this relate to or build upon existing sections?
+      placeholder: |
+        Example: "This would fit in Part VI (Digital Finances) as a new chapter"
+        Example: "This extends the content in Part IX (Family and Children)"
+
+  - type: dropdown
+    id: urgency
+    attributes:
+      label: Priority
+      description: How urgent/important is this addition?
+      options:
+        - Critical (security vulnerability or major gap)
+        - High (important missing content)
+        - Medium (nice improvement)
+        - Low (minor enhancement)
+    validations:
+      required: true
+
+  - type: textarea
+    id: sources
+    attributes:
+      label: Sources or references
+      description: Any links, articles, or resources that support this suggestion?
+      placeholder: |
+        Links to articles, tools, or documentation

@@ -1,0 +1,98 @@
+name: 🐛 Bug Report
+description: Report an error, inconsistency, or problem in Protocol Zero
+title: "[BUG]: "
+labels: ["bug", "needs-triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report an issue with Protocol Zero!
+        
+  - type: dropdown
+    id: section
+    attributes:
+      label: Which section is affected?
+      description: Select the part of Protocol Zero where you found the issue
+      options:
+        - README / Navigation
+        - Part I - Foundations
+        - Part II - Identity and Access
+        - Part III - Device Security
+        - Part IV - Archive Data and Memories
+        - Part V - Communication and Privacy
+        - Part VI - Digital Finances
+        - Part VII - AI and Automation
+        - Part VIII - Law and Ethics
+        - Part IX - Family and Children
+        - Part X - Work and Travel
+        - Part XI - Digital Legacy
+        - Part XII - Digital Hygiene and Wellbeing
+        - Appendix A - Tools Essential List
+        - Appendix B - Crisis Scenarios
+        - Appendix C - Printable Checklists
+        - Appendix D - Templates
+        - Appendix E - Extended Glossary
+        - Appendix F - Versioning and Maintenance
+        - Other/General
+    validations:
+      required: true
+
+  - type: dropdown
+    id: issue-type
+    attributes:
+      label: Type of issue
+      options:
+        - Incorrect information
+        - Outdated information
+        - Broken link
+        - Typo or formatting
+        - Unclear explanation
+        - Missing information
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: What's wrong? Be specific.
+      placeholder: |
+        Example: "The recommended password manager link in Part II goes to a 404 page."
+        Example: "The section on 2FA mentions SMS as acceptable, but current best practices recommend against it."
+    validations:
+      required: true
+
+  - type: textarea
+    id: suggested-fix
+    attributes:
+      label: Suggested fix (optional)
+      description: If you have a suggestion for how to fix this, share it here
+      placeholder: |
+        Example: "Update the link to https://..."
+        Example: "Add a warning that SMS 2FA is vulnerable to SIM swapping attacks"
+
+  - type: input
+    id: file
+    attributes:
+      label: File reference
+      description: If applicable, which specific file and line/section?
+      placeholder: "protocol/en/02_identity_and_access.md - Chapter 3, line 45"
+
+  - type: dropdown
+    id: language
+    attributes:
+      label: Language version
+      description: Which language version is affected?
+      options:
+        - English (en)
+        - Polish (pl)
+        - Spanish (es)
+        - French (fr)
+        - German (de)
+        - Russian (ru)
+        - Chinese (zh)
+        - Japanese (ja)
+        - Other
+    validations:
+      required: true
