@@ -41,8 +41,8 @@ Protocol Zero is available in multiple languages. Each language edition is compl
 ### Read on GitHub (current)
 Browse directly in this repository - start with [English edition](protocol/en/README.md)
 
-### Website (coming soon)
-GitHub Pages site will be published when ready. Until then, use the GitHub version above.
+### Website (alpha)
+GitHub Pages site is deployed; active development is ongoing.
 
 ### Download
 - **PDF versions:** Coming soon
