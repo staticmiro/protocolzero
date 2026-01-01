@@ -1,0 +1,8 @@
+# Jekyll configuration for GitHub Pages
+title: "Protocol Zero"
+description: "A comprehensive guide to digital privacy, security, and sovereignty for everyone"
+show_title: false
+exclude:
+  - .github/
+  - .gitignore
+  - CONTRIBUTING.md
