@@ -1,0 +1,62 @@
+name: "📝 Content Error or Typo"
+description: Report an error, typo, broken link, or outdated information
+title: "[ERROR] "
+labels: ["content-error", "needs-review"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Report a Content Error
+        
+        Thank you for helping improve Protocol Zero. Use this template to report errors, typos, broken links, or outdated information.
+        
+  - type: dropdown
+    id: error-type
+    attributes:
+      label: Type of Error
+      description: What kind of error did you find?
+      options:
+        - Typo or grammar mistake
+        - Factual error or outdated information
+        - Broken link
+        - Formatting issue
+        - Incorrect technical instruction
+        - Other
+    validations:
+      required: true
+      
+  - type: input
+    id: location
+    attributes:
+      label: Location
+      description: "Which file and section? (e.g., protocol/en/02_identity_and_access.md, Chapter 2)"
+      placeholder: "protocol/en/..."
+    validations:
+      required: true
+      
+  - type: textarea
+    id: current-content
+    attributes:
+      label: Current Content (what's wrong)
+      description: Copy the text that contains the error
+      placeholder: "Paste the incorrect text here..."
+    validations:
+      required: true
+      
+  - type: textarea
+    id: suggested-fix
+    attributes:
+      label: Suggested Fix
+      description: How should it be corrected?
+      placeholder: "Your suggested correction..."
+    validations:
+      required: false
+      
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Additional Context
+      description: Any other relevant information?
+      placeholder: "Links to sources, screenshots, etc."
+    validations:
+      required: false
