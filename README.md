@@ -46,7 +46,7 @@ GitHub Pages site will be published when ready. Until then, use the GitHub versi
 
 ### Download
 - **PDF versions:** Coming soon
-- **Offline copy:** Download from [Releases](https://github.com/protocolzero/protocolzero/releases) or clone this repository
+- **Offline copy:** Download from [Releases](https://github.com/mirmay/protocolzero/releases) or clone this repository
 - **Print-friendly:** All files are markdown - easily convertible to PDF or printable formats
 
 ### Contribute
@@ -67,5 +67,3 @@ Help improve Protocol Zero:
 ## License
 
 This work is licensed under [CC BY-SA 4.0](LICENSE) - Free to share and adapt with attribution.
-
-**Your digital life is your life. It's time to own it.**
