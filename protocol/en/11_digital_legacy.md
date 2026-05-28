@@ -199,7 +199,7 @@ Detailed instructions, account lists, specific wishes. Encrypted, with decryptio
 
 ### How Often to Update
 
-**Digital life changes constantly. ** Digital will needs regular updates. 
+**Digital life changes constantly.**  Digital will needs regular updates. 
 
 **Update frequency:**
 
@@ -942,7 +942,7 @@ Everyone remembers to close bank account. Forget about streaming services, loyal
 
 Gradual cognitive decline presents unique challenges. 
 
-Unlike sudden death or accident, you have time to prepare while you still can.
+Unlike sudden death or accident, you have time to prepare while you still can. (This preparation builds upon the foundations laid in [Chapter 42: Digital Will](#42-digital-will-inventory-and-instructions) and [Chapter 43: Emergency Access](#43-emergency-access-the-break-glass-protocol)).
 
 ### Gradual Loss of Capacity
 

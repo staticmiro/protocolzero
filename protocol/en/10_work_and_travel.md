@@ -397,7 +397,7 @@ Often asks for:
 
 **Use cellular data** for sensitive work instead of public WiFi.
 
-**Use VPN** on public WiFi to encrypt traffic (WiFi provider can still see you're connected and how much data, but not what you're accessing).
+**Use VPN** on public WiFi to encrypt traffic (WiFi provider can still see you're connected and how much data, but not what you're accessing). (See [Chapter 24: VPN Demystified](05_communication_and_privacy.md#24-vpn-demystified-what-it-does-and-doesnt-do) for details).
 
 **Limit activities** on public WiFi to non-sensitive browsing.
 

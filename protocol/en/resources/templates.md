@@ -584,7 +584,7 @@ reference_tax_code_section_501c3.pdf
 
 - I own cryptocurrency: ☐ Yes ☐ No
 - **CRITICAL:** Seed phrase (12 or 24 word recovery phrase) is located: ****\_****
-- **DO NOT LOSE THIS. ** Without seed phrase, crypto is gone forever.
+- **DO NOT LOSE THIS.**  Without seed phrase, crypto is gone forever.
 - **DO NOT SHARE WITH ANYONE** until you understand how to secure it.
 - Consider consulting cryptocurrency expert or attorney
 

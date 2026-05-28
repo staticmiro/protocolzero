@@ -621,7 +621,7 @@ Reveals:
 - Your routine (coffee shop every morning)
 - When you're away (vacation posts = empty home)
 
-**Disable location tagging by default. ** Add manually and vaguely only when relevant ("hiking in mountains" not "exact GPS coordinates").
+**Disable location tagging by default.**  Add manually and vaguely only when relevant ("hiking in mountains" not "exact GPS coordinates").
 
 **Facial recognition:**
 
@@ -882,7 +882,7 @@ This data:
 
 **Share cards** with friends/family. Dilutes data with multiple people's purchases.
 
-**Decline email address at checkout. ** "No thanks" when asked for email for receipt.
+**Decline email address at checkout.**  "No thanks" when asked for email for receipt.
 
 ### City Cameras and Facial Recognition
 
@@ -1061,7 +1061,7 @@ But still verify:
 - Transparency reports
 - Payment methods (anonymous payment options like cryptocurrency indicate privacy focus)
 
-**Even paid VPN requires trust. ** You're trusting them not to log, not to sell data, not to be compromised.
+**Even paid VPN requires trust.**  You're trusting them not to log, not to sell data, not to be compromised.
 
 ### **[RECOMMENDED]** When VPN Is Necessary
 

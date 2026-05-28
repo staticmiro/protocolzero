@@ -83,11 +83,11 @@
 - Best for: Users wanting cloud backup of 2FA codes
 
 **Google Authenticator**
-- Type: TOTP authenticator
+- Type: TOTP authenticator with optional cloud backup
 - Pricing: Free
 - Platforms: iOS, Android
-- Key features: Simple, reliable, no cloud sync (as of last update)
-- Best for: Security purists (no cloud = more secure but lose codes if phone lost)
+- Key features: Simple, cloud sync added in 2023 (can be disabled)
+- Best for: General users
 
 **Microsoft Authenticator**
 - Type:  TOTP authenticator with push notifications
@@ -108,10 +108,8 @@
 - Best for: Privacy-focused Android users
 
 **Raivo OTP**
-- Type: Open source
-- Pricing: Free
-- Platforms: iOS
-- Best for: Privacy-focused iOS users
+- Note: Acquired in 2023 by an untrusted company. Many security experts advise against using it. Evaluate alternatives (like Ente Auth or Aegis) before choosing.
+- Best for: Previously popular but evaluate alternatives first
 
 **Hardware Keys:**
 
@@ -448,10 +446,10 @@
 
 **Script Blockers [ADVANCED]:**
 
-**uMatrix** [ADVANCED]
-- Type: Firewall for browser
-- Note: Development discontinued but still functional
-- Best for: Advanced users, granular control
+**uBlock Origin (Advanced Mode)** [ADVANCED]
+- Type: Dynamic filtering for browser
+- Pricing: Free
+- Best for: Advanced users wanting granular control over scripts and frames
 
 **NoScript**
 - Type: JavaScript blocker

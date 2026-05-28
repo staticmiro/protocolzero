@@ -434,7 +434,7 @@ If you're being harassed, secure your accounts.
 **Immediate actions:**
 
 **1. Change all passwords:**
-- Use password manager
+- Use password manager (See [Chapter 2: Password Managers](02_identity_and_access.md#2-password-managers) for details)
 - Unique, strong passwords for each account
 - Prioritize email (controls password resets for other accounts)
 
@@ -689,7 +689,7 @@ Ask:
 - **Can I verify this elsewhere?** Multiple independent sources confirm? 
 - **Does headline match content?** Clickbait headlines often misrepresent article. 
 - **Am I being manipulated emotionally?** Outrage, fear, excitement clouds judgment. 
-- **What's the date? ** Old story recirculated as if current. 
+- **What's the date?**  Old story recirculated as if current. 
 - **Is image/video authentic?** Reverse image search, check for editing.
 
 **If unsure, don't share.**

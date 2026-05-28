@@ -68,7 +68,7 @@ See transaction you didn't make? Immediately:
 4. Change passwords
 5. Check for unauthorized changes to account settings
 
-**Minutes matter. ** Faster you respond, less damage occurs.
+**Minutes matter.**  Faster you respond, less damage occurs.
 
 **Alert fatigue:**
 
@@ -108,7 +108,7 @@ Freeze is reversible. Better to freeze unnecessarily than leave compromised card
 
 ### **[CRITICAL]** Two-Factor Authentication in Banking
 
-If your bank offers 2FA, enable it. No exceptions.
+If your bank offers 2FA, enable it. No exceptions. (See [Chapter 3: Two-Factor Authentication](02_identity_and_access.md#3-two-factor-authentication-2fa) for detailed setup instructions).
 
 **Common methods:**
 
@@ -167,7 +167,7 @@ Removes security protections. Banking apps often refuse to run on modified devic
 
 Phishing is the most common cyberattack. Fake emails, messages, and websites designed to steal your credentials.
 
-Technical security measures help. But most phishing succeeds because of human error.
+Technical security measures help. But most phishing succeeds because of human error. (To strengthen your technical defenses, see [Chapter 19: Browser Privacy and Security](05_communication_and_privacy.md#19-browser-your-window-to-the-web)).
 
 ### **[CRITICAL]** Typical Signs of Fraud
 

@@ -210,7 +210,7 @@ When you enable 2FA, services give you recovery codes (also called backup codes)
 
 These codes let you access your account if you lose your phone or 2FA device. 
 
-**You must save these. ** Print them. Write them down. Store them with your master password.
+**You must save these.**  Print them. Write them down. Store them with your master password.
 
 Without recovery codes, losing your 2FA device means permanent lockout from your account.
 

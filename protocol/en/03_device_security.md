@@ -116,7 +116,7 @@ Ask yourself:
 - What permissions will it request?
 - Are there alternatives with better privacy?
 
-**Download only from official app stores. ** Sideloading apps from random websites is how phones get infected.
+**Download only from official app stores.**  Sideloading apps from random websites is how phones get infected.
 
 Even official app stores contain malicious apps. Check:
 
@@ -149,7 +149,7 @@ For each app, check what it can access. Revoke anything unnecessary.
 
 For location: Choose "Only while using app" instead of "Always." Most apps don't need background location tracking.
 
-**Uninstall apps you don't use. ** Every app is a potential vulnerability and privacy leak. Less is more.
+**Uninstall apps you don't use.**  Every app is a potential vulnerability and privacy leak. Less is more.
 
 ### Public WiFi: Threats and Protection
 
@@ -164,7 +164,7 @@ Public networks at cafes, airports, hotels, libraries are convenient but dangero
 
 **Protection:**
 
-**Use encrypted connections only. ** Look for HTTPS (padlock icon) in browser. Never enter passwords or sensitive data on non-HTTPS sites.
+**Use encrypted connections only.**  Look for HTTPS (padlock icon) in browser. Never enter passwords or sensitive data on non-HTTPS sites.
 
 **Avoid sensitive activities on public WiFi.** No online banking. No password changes. No accessing medical records. Wait until you're on trusted network or use cellular data.
 
@@ -516,7 +516,7 @@ When a friend, contractor, or visitor connects to your main network, their devic
 
 Guest network prevents this. Guest devices can access internet but cannot see or interact with your main network devices.
 
-**Enable guest network in router settings. ** Give it a different password from your main network.
+**Enable guest network in router settings.**  Give it a different password from your main network.
 
 Use guest network for:
 
@@ -583,7 +583,7 @@ You'll see:
 - IP address
 - Connection time
 
-**Identify each device. ** Compare list to devices you own. Unknown device = problem.
+**Identify each device.**  Compare list to devices you own. Unknown device = problem.
 
 **If you find unknown devices:**
 
@@ -691,7 +691,7 @@ Manufacturers claim they only record after wake word. Data breaches and reports 
 
 **Use only for non-sensitive tasks** (timers, weather, music). Not for shopping, banking, anything private.
 
-**Consider if you actually need it. ** Convenience vs privacy tradeoff.
+**Consider if you actually need it.**  Convenience vs privacy tradeoff.
 
 ### Security Cameras and Doorbells
 
@@ -705,13 +705,13 @@ Cameras in and around your home can enhance security. They can also:
 
 **If you use security cameras:**
 
-**Change default passwords immediately. ** Camera default passwords are publicly listed.
+**Change default passwords immediately.**  Camera default passwords are publicly listed.
 
 **Disable remote access** unless absolutely necessary. Local-only viewing is more secure.
 
-**Check if video is stored locally or in cloud. ** Cloud storage means company has access. Local storage (SD card, NAS) is more private but less convenient.
+**Check if video is stored locally or in cloud.**  Cloud storage means company has access. Local storage (SD card, NAS) is more private but less convenient.
 
-**Point cameras outward, not inward. ** Monitor entrances, not living spaces.
+**Point cameras outward, not inward.**  Monitor entrances, not living spaces.
 
 **Disable audio** if you only need video.
 
@@ -732,7 +732,7 @@ Physical security devices connected to internet create risk.
 
 **If you use smart locks:**
 
-**Keep traditional key backup. ** Don't depend entirely on electronic lock.
+**Keep traditional key backup.**  Don't depend entirely on electronic lock.
 
 **Use locks from established companies** with security track record.
 
@@ -765,9 +765,9 @@ Physical security devices connected to internet create risk.
 
 **Check privacy settings** on device and associated app. Disable data sharing, personalized ads, cloud analysis.
 
-**Regularly update firmware. ** Set reminders to check quarterly if auto-update not available.
+**Regularly update firmware.**  Set reminders to check quarterly if auto-update not available.
 
-**Don't link to sensitive accounts. ** Don't connect IoT devices to email or accounts that control banking, health, etc.
+**Don't link to sensitive accounts.**  Don't connect IoT devices to email or accounts that control banking, health, etc.
 
 **Unplug or disable when not needed.** Camera you only use when traveling? Unplug it when home.
 

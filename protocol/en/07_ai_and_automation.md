@@ -29,6 +29,19 @@ Sometimes accurate. Sometimes plausible-sounding nonsense. Sometimes completely 
 
 AI is tool, not oracle. 
 
+### **[CRITICAL]** AI-Powered Social Engineering
+
+**The Threat: Voice Cloning & Deepfakes**
+
+AI can now clone a person's voice from just a few seconds of public audio (social media videos, voicemails). Attackers use this to impersonate family members in distress or executives authorizing payments. AI can also generate personalized phishing emails (spear-phishing) at scale, making them much harder to detect than traditional scams.
+
+**How to protect yourself:**
+
+- **Establish a family safe word:** A specific word or phrase only your family knows. If a family member calls asking for money or in an emergency, ask for the safe word.
+- **Verify through another channel:** If your boss calls asking for an urgent wire transfer, message them on a verified company channel or call their known number to confirm.
+- **Be skeptical of urgency:** Scammers use AI to create artificial urgency ("I'm in jail, need bail money right now"). Pause and verify.
+- **Limit public audio/video:** Be mindful of how much high-quality audio of your voice is publicly accessible on social media.
+
 ### **[CRITICAL]** What to Never Enter
 
 Anything you type into AI service is potentially: 
@@ -294,7 +307,7 @@ Voice assistants offer real convenience:
 
 **Questions to ask:**
 
-**Do I actually use this? **  
+**Do I actually use this?**   
 Many people have voice assistant but rarely use it. If novelty has worn off, remove it.
 
 **What am I using it for?**  
