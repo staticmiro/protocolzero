@@ -446,9 +446,9 @@
 - Pricing: Free
 - Best for:  Cleaning tracking from links
 
-**Script Blockers (Advanced):**
+**Script Blockers [ADVANCED]:**
 
-**uMatrix** (Advanced)
+**uMatrix** [ADVANCED]
 - Type: Firewall for browser
 - Note: Development discontinued but still functional
 - Best for: Advanced users, granular control

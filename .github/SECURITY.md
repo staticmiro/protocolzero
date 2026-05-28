@@ -70,7 +70,7 @@ We maintain the current version of Protocol Zero. When significant updates are p
 - **Previous version**: Security-critical updates only for 3 months after new version release
 - **Older versions**: No longer supported
 
-Check [Appendix F: Versioning and Maintenance Plan](protocol/en/f_versioning_and_maintenance_plan.md) for details.
+For contribution workflow and how updates are handled, see [CONTRIBUTING.md](../CONTRIBUTING.md).
 
 ## Security Best Practices for Contributors
 
@@ -101,6 +101,7 @@ We appreciate the security community's efforts to keep Protocol Zero accurate an
 We maintain a log of past security updates:
 
 ### 2025
-- *No critical security updates yet*
+
+- _No critical security updates yet_
 
 (This section will be updated as security issues are addressed)

@@ -1,8 +1,8 @@
-# 📖 PART XI:       DIGITAL LEGACY
+# 📖 PART XI: DIGITAL LEGACY
 
 ## 42. Digital Will: "Just in Case" Plan
 
-Death is certain.   Timing is not.  
+Death is certain. Timing is not.  
 
 Your digital life needs a plan for when you're gone. 
 
@@ -25,10 +25,10 @@ Your digital life needs a plan for when you're gone.
 No passwords, no access, no way to retrieve memories or critical documents.
 
 **Financial loss:**  
-Subscriptions continue charging.    Cryptocurrency lost forever.   Assets unknown and unclaimed.
+Subscriptions continue charging. Cryptocurrency lost forever. Assets unknown and unclaimed.
 
 **Legal complications:**  
-Proving ownership of digital assets.  Accessing accounts without credentials. 
+Proving ownership of digital assets. Accessing accounts without credentials. 
 
 **Emotional burden:**  
 Grief compounded by frustration of locked-out accounts containing precious memories.
@@ -139,7 +139,7 @@ People to notify:
 - Distribution of digital assets
 - Privacy preferences (what should remain private even after death)
 
-### **[RECOMMENDED]** Format:  Paper, Digital, Legal
+### **[RECOMMENDED]** Format: Paper, Digital, Legal
 
 **Paper (recommended for critical information):**
 
@@ -186,25 +186,25 @@ Cons:
 - Publicly accessible after probate in many jurisdictions
 - May not cover all digital assets adequately
 
-**Recommended approach:   Combination.**
+**Recommended approach: Combination.**
 
 **Legal will:**  
-High-level.    "Digital assets to be distributed according to instructions in digital estate plan stored at [location]."
+High-level. "Digital assets to be distributed according to instructions in digital estate plan stored at [location]."
 
 **Paper document:**  
-Critical passwords, master keys, encryption keys, locations.    Stored securely.
+Critical passwords, master keys, encryption keys, locations. Stored securely.
 
 **Digital document:**  
-Detailed instructions, account lists, specific wishes.    Encrypted, with decryption key in paper document.
+Detailed instructions, account lists, specific wishes. Encrypted, with decryption key in paper document.
 
 ### How Often to Update
 
-**Digital life changes constantly.  **  Digital will needs regular updates. 
+**Digital life changes constantly. ** Digital will needs regular updates. 
 
 **Update frequency:**
 
 **Annually (minimum):**  
-Review entire document.   Update accounts, passwords (if stored), instructions.
+Review entire document. Update accounts, passwords (if stored), instructions.
 
 **Major life events:**
 - Marriage, divorce, separation
@@ -225,43 +225,43 @@ Review entire document.   Update accounts, passwords (if stored), instructions.
 **Set calendar reminder:**  
 Same time each year (birthday, new year, specific date).
 
-**Review takes 30-60 minutes.**  Small time investment for significant peace of mind.
+**Review takes 30-60 minutes.** Small time investment for significant peace of mind.
 
 **Test the process:**
 
-Periodically ask:   "If I died today, could my family follow these instructions?"
+Periodically ask: "If I died today, could my family follow these instructions?"
 
 Test with trusted person (spouse, adult child):  
-Can they access what they need with your instructions?   (Don't give them actual access, just walk through the process.)
+Can they access what they need with your instructions? (Don't give them actual access, just walk through the process.)
 
 ### Common Mistakes
 
 **No digital will at all**  
-"I'm young, I'll do it later."   Accidents happen.   Do it now.
+"I'm young, I'll do it later." Accidents happen. Do it now.
 
 **Storing access information in only one place**  
-Single copy lost/destroyed = family locked out.    Redundancy essential.
+Single copy lost/destroyed = family locked out. Redundancy essential.
 
 **Instructions too vague**  
-"My passwords are in a safe place."   Where?   What safe place?
+"My passwords are in a safe place." Where? What safe place?
 
 **Never updating**  
 Document from 10 years ago references accounts that no longer exist, omits current accounts.
 
 **Giving full access to someone you no longer trust**  
-Divorce, falling out, relationship changes.   Update beneficiaries and executors.
+Divorce, falling out, relationship changes. Update beneficiaries and executors.
 
 **Including full passwords in will**  
-Will becomes public record in probate.   Include location of passwords, not passwords themselves.
+Will becomes public record in probate. Include location of passwords, not passwords themselves.
 
 **Not telling anyone document exists**  
-Perfect plan hidden in safety deposit box nobody knows about.   Tell executor where to find it.
+Perfect plan hidden in safety deposit box nobody knows about. Tell executor where to find it.
 
 **Digital-only with no backup**  
 Single digital file corrupted or on encrypted drive with lost password. 
 
 **Too complicated**  
-100-page document with technical jargon.   Grieving family won't follow complex instructions.   Keep it clear and actionable.
+100-page document with technical jargon. Grieving family won't follow complex instructions. Keep it clear and actionable.
 
 ### Quick Wins
 
@@ -343,9 +343,9 @@ Download and transfer of data to designated person.
 
 Prevents abuse.   
 
-If emergency contact compromised or malicious:  you receive notification, deny request, revoke their emergency status.
+If emergency contact compromised or malicious: you receive notification, deny request, revoke their emergency status.
 
-If you're truly incapacitated or deceased:   you can't deny, access granted after waiting period.
+If you're truly incapacitated or deceased: you can't deny, access granted after waiting period.
 
 **Setup:**
 
@@ -355,9 +355,9 @@ If you're truly incapacitated or deceased:   you can't deny, access granted afte
 4. Contact receives invitation to accept role
 5. Test the process (optional but recommended)
 
-**Alternative:  Sealed envelope.**
+**Alternative: Sealed envelope.**
 
-Write master password on paper, seal in envelope, give to trusted person with instructions:   "Open only if I'm incapacitated or deceased."
+Write master password on paper, seal in envelope, give to trusted person with instructions: "Open only if I'm incapacitated or deceased."
 
 Lower tech, but works. 
 
@@ -383,7 +383,7 @@ After death, they still have access to shared content (though not entire account
 
 **Preparation:**
 
-**Create shared folder:**  "Important Documents" or "Family Archive."
+**Create shared folder:** "Important Documents" or "Family Archive."
 
 Include:
 - Scanned legal documents
@@ -398,16 +398,16 @@ If you die, they still have access to this shared content regardless of account 
 ### Common Mistakes
 
 **Not enabling legacy features**  
-Features exist, nobody uses them.   Enable while you can.
+Features exist, nobody uses them. Enable while you can.
 
 **Designating wrong person**  
 Not trustworthy, not tech-savvy enough, estranged family member. 
 
 **Designating same person for everything**  
-Single point of failure.    If that person is deceased, incapacitated, or untrustworthy, you have no backup.
+Single point of failure. If that person is deceased, incapacitated, or untrustworthy, you have no backup.
 
 **Never testing emergency access**  
-Set it up, assume it works.   Doesn't work when needed.
+Set it up, assume it works. Doesn't work when needed.
 
 **Not updating emergency contacts**  
 Designated person is ex-spouse or deceased friend. 
@@ -419,7 +419,7 @@ Without legacy access configured, cloud provider won't grant access even with de
 Family doesn't know you set up emergency access or how to activate it.
 
 **Choosing waiting period too long**  
-7-day waiting period when 48 hours would be sufficient.   Delays urgent access.
+7-day waiting period when 48 hours would be sufficient. Delays urgent access.
 
 ### Quick Wins
 
@@ -454,11 +454,11 @@ Stored where trusted person can find it:
 
 Biometric access on devices (fingerprint, face recognition) works even if you forget passwords.
 
-But family needs backup:   physical password/PIN for when biometrics fail.
+But family needs backup: physical password/PIN for when biometrics fail.
 
 **Trusted contacts informed:**
 
-Before crisis:    "If I ever seem confused or can't remember important accounts, check [location] for emergency information."
+Before crisis: "If I ever seem confused or can't remember important accounts, check [location] for emergency information."
 
 **Regular practice:**
 
@@ -472,7 +472,7 @@ Emergency contacts for:
 - Medical power of attorney
 - Medication lists (if stored digitally)
 
-### Death:     Step by Step for Family
+### Death: Step by Step for Family
 
 **What family should do:**
 
@@ -528,7 +528,7 @@ Emergency contacts for:
     From services before closing accounts.
 
 15. **Monitor for identity theft**  
-    Your identity can be stolen after death.   Monitor credit reports, watch for fraudulent accounts.
+    Your identity can be stolen after death. Monitor credit reports, watch for fraudulent accounts.
 
 **Ongoing:**
 
@@ -538,7 +538,7 @@ Emergency contacts for:
 17. **Document the process**  
     For their own future reference or others in family.
 
-### Disability:    Access for Caregivers
+### Disability: Access for Caregivers
 
 **You're alive but unable to manage your own accounts.**
 
@@ -579,9 +579,9 @@ Specify what's necessary vs what's private.
 
 Medical providers, insurance, utilities have caregiver as authorized contact.
 
-### Separation/Divorce:    Separating Access
+### Separation/Divorce: Separating Access
 
-**Shared digital life during relationship.   Must separate during/after breakup.**
+**Shared digital life during relationship. Must separate during/after breakup.**
 
 **Immediate actions:**
 
@@ -628,7 +628,7 @@ Every account, especially:
 
 **Change address/location:**
 
-Remove shared address from accounts.  Update to new location.
+Remove shared address from accounts. Update to new location.
 
 **Document everything:**
 
@@ -640,33 +640,33 @@ For legal proceedings, document:
 
 **Legal considerations:**
 
-Some jurisdictions have rules about shared digital assets in divorce.   Consult attorney. 
+Some jurisdictions have rules about shared digital assets in divorce. Consult attorney. 
 
 ### Common Mistakes
 
 **No preparation for any crisis scenario**  
-"It won't happen to me."   It can. 
+"It won't happen to me." It can. 
 
 **Instructions only in your head**  
-Can't communicate during crisis.   Must be documented.
+Can't communicate during crisis. Must be documented.
 
 **Family doesn't know where instructions are**  
 Perfect plan in location nobody knows about. 
 
 **Instructions require your active participation**  
-"Call me to get the password."   What if you can't answer?
+"Call me to get the password." What if you can't answer?
 
 **No legal authority for caregiver**  
 Without POA, services may refuse to grant access even with good intentions.
 
 **Waiting until crisis to separate accounts**  
-Relationship ends badly, you're locked in bitter fight over account access.   Separate proactively.
+Relationship ends badly, you're locked in bitter fight over account access. Separate proactively.
 
 **Not updating after crisis**  
 Crisis passes, you recover, but emergency contacts and access instructions never updated.
 
 **Assuming family can figure it out**  
-Technical systems are complex.    Without instructions, family will struggle.
+Technical systems are complex. Without instructions, family will struggle.
 
 ### Quick Wins
 
@@ -678,7 +678,7 @@ Technical systems are complex.    Without instructions, family will struggle.
 
 ## 45. Accounts After Death
 
-Services handle death differently.    Some memorialize.   Some delete.  Some lock forever.
+Services handle death differently. Some memorialize. Some delete. Some lock forever.
 
 ### What Happens to Different Types of Accounts
 
@@ -686,18 +686,18 @@ Services handle death differently.    Some memorialize.   Some delete.  Some loc
 
 **Typical process:**
 
-Account becomes inactive.    After period (often 3-12 months), may be deleted. 
+Account becomes inactive. After period (often 3-12 months), may be deleted. 
 
 **With legacy access:** Family can retrieve emails and contacts.
 
-**Without legacy access:**   Usually locked forever.  Company policy often prevents granting access even with death certificate.
+**Without legacy access:** Usually locked forever. Company policy often prevents granting access even with death certificate.
 
 **Social media:**
 
 **Options:**
-- **Memorial account:**  Profile converted to memorial.   No new posts, but existing content preserved.  
-- **Deletion:**  Account fully removed per your instruction. 
-- **Inactive then deleted:**  If no instruction, account may eventually be deleted.
+- **Memorial account:** Profile converted to memorial. No new posts, but existing content preserved.  
+- **Deletion:** Account fully removed per your instruction. 
+- **Inactive then deleted:** If no instruction, account may eventually be deleted.
 
 **Memorialization process:**
 
@@ -739,7 +739,7 @@ Family needs to:
 **Typically non-transferable.**
 
 Terms of service usually state:  
-"License, not ownership.    Non-transferable."
+"License, not ownership. Non-transferable."
 
 Your library of purchased content dies with you.
 
@@ -760,14 +760,14 @@ Requires access to registrar account.
 
 **Access requires private keys/seed phrases.**
 
-Without these:   permanently lost.   No recovery possible.  
+Without these: permanently lost. No recovery possible.  
 
 With keys:  
 - Executor can access wallets
 - Transfer funds
 - Convert to traditional currency
 
-Include in estate planning.    Otherwise, potentially significant assets vanish.
+Include in estate planning. Otherwise, potentially significant assets vanish.
 
 ### **[RECOMMENDED]** Closing vs Memorializing
 
@@ -775,9 +775,9 @@ Include in estate planning.    Otherwise, potentially significant assets vanish.
 
 **Nature of account:**
 
-**Functional (email, banking, utilities):**   Close after affairs settled.
+**Functional (email, banking, utilities):** Close after affairs settled.
 
-**Memorial (social media, photo sharing):**   Family may want preserved. 
+**Memorial (social media, photo sharing):** Family may want preserved. 
 
 **Your wishes:**
 
@@ -792,27 +792,27 @@ Grieving family may find comfort in memorial account where they can visit, leave
 
 Or may find it painful and prefer closure.
 
-**Discuss with family** if possible.   Their needs matter too.
+**Discuss with family** if possible. Their needs matter too.
 
 **Data preservation:**
 
-**Before closing/memorializing:**  Download data archives. 
+**Before closing/memorializing:** Download data archives. 
 
 Once account closed, data may be unrecoverable.
 
 **Recommendation by account type:**
 
-**Social media:**   Memorialize (preserves memories, photos, connections).
+**Social media:** Memorialize (preserves memories, photos, connections).
 
-**Email:**   Access for estate settlement, then close (or transfer important data, then close).
+**Email:** Access for estate settlement, then close (or transfer important data, then close).
 
-**Banking/financial:**   Close after estate settled.
+**Banking/financial:** Close after estate settled.
 
-**Subscriptions:**   Cancel/close. 
+**Subscriptions:** Cancel/close. 
 
-**Cloud storage:**   Download data, then close.
+**Cloud storage:** Download data, then close.
 
-**Websites/blogs:**   Depends.   If public-facing creative work, may want to keep online.  If personal, may want to close.
+**Websites/blogs:** Depends. If public-facing creative work, may want to keep online. If personal, may want to close.
 
 ### Download Data Before Closure
 
@@ -845,7 +845,7 @@ Process generates archive (usually ZIP file) of all your data.
 
 **Download, verify, backup.**
 
-Store in multiple locations.   This is family legacy.
+Store in multiple locations. This is family legacy.
 
 ### Preventing Identity Theft After Death
 
@@ -862,7 +862,7 @@ Store in multiple locations.   This is family legacy.
 
 **1. Notify credit bureaus:**
 
-Report death to major credit bureaus.   Request deceased alert on credit report. 
+Report death to major credit bureaus. Request deceased alert on credit report. 
 
 Prevents new credit from being opened.
 
@@ -922,13 +922,13 @@ Account remains active, vulnerable to fraud.
 Charges continue, accounts vulnerable. 
 
 **Not checking for fraudulent activity after death**  
-Assume death ends fraud risk.   It doesn't.
+Assume death ends fraud risk. It doesn't.
 
 **Executor not having legal documentation**  
 Services refuse access without proper legal authority.
 
 **Forgetting small accounts**  
-Everyone remembers to close bank account.   Forget about streaming services, loyalty programs, niche sites.
+Everyone remembers to close bank account. Forget about streaming services, loyalty programs, niche sites.
 
 ### Quick Wins
 
@@ -952,9 +952,9 @@ Alzheimer's, dementia, Parkinson's, others cause progressive loss of cognitive f
 
 **Digital impact:**
 
-Early stages:   Forget passwords occasionally.  
-Middle stages:   Forget how to use devices, can't follow complex instructions.  
-Late stages:  Cannot interact with technology at all.
+Early stages: Forget passwords occasionally.  
+Middle stages: Forget how to use devices, can't follow complex instructions.  
+Late stages: Cannot interact with technology at all.
 
 **Preparation must happen early** while you're still capable.
 
@@ -988,13 +988,13 @@ Same steps every time reduces cognitive load.
 
 **Simplify devices:**
 
-**Remove unused apps:**  Reduce clutter and confusion.
+**Remove unused apps:** Reduce clutter and confusion.
 
-**Home screen essentials only:**  Phone, messages, photos, video call.
+**Home screen essentials only:** Phone, messages, photos, video call.
 
-**Larger text and icons:**  Easier to see and tap.
+**Larger text and icons:** Easier to see and tap.
 
-**Reduce notifications:**  Overwhelming and confusing during decline.
+**Reduce notifications:** Overwhelming and confusing during decline.
 
 **Automate bill payment:**
 
@@ -1012,9 +1012,9 @@ Grant access to trusted family member while you can still:
 
 **Transitional control:**
 
-Early:    You manage with caregiver as backup.  
-Middle:  Joint management.   
-Late:   Caregiver fully manages.
+Early: You manage with caregiver as backup.  
+Middle: Joint management.   
+Late: Caregiver fully manages.
 
 ### Face/Voice Recognition Failures
 
@@ -1088,7 +1088,7 @@ Generic POA may not be sufficient.
 
 **Consult attorney** specializing in elder law or estate planning.
 
-Digital assets are relatively new legal area.   Specialist knowledge helpful.
+Digital assets are relatively new legal area. Specialist knowledge helpful.
 
 **Include:**
 - Specific list of digital assets and accounts
@@ -1109,7 +1109,7 @@ New accounts, closed accounts, change in chosen agent.
 ### Common Mistakes
 
 **Waiting too long to prepare**  
-"I'm still fine, I'll do it later."   Cognitive decline is insidious.   Prepare early.
+"I'm still fine, I'll do it later." Cognitive decline is insidious. Prepare early.
 
 **Not simplifying digital life**  
 Complex account structures impossible to manage during decline.
@@ -1133,7 +1133,7 @@ Complex digital systems are confusing even for tech-savvy people.
 Family doesn't know what you want done with accounts, data, online presence.
 
 **Isolation of information**  
-Only you know accounts exist.   Caregiver can't manage what they don't know about.
+Only you know accounts exist. Caregiver can't manage what they don't know about.
 
 ### Quick Wins
 
@@ -1142,7 +1142,7 @@ Only you know accounts exist.   Caregiver can't manage what they don't know abou
 - **20 minutes:** Grant trusted person access to critical accounts with their knowledge and training. 
 - **Variable:** Consult attorney about digital power of attorney. 
 
-*Your digital life outlasts you.    Planning ensures your memories are preserved, your assets protected, and your loved ones spared unnecessary burden.*
+*Your digital life outlasts you. Planning ensures your memories are preserved, your assets protected, and your loved ones spared unnecessary burden.*
 
 ---
 [← Back to Protocol Zero README](README.md)

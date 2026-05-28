@@ -1,10 +1,10 @@
 ## Choose Your Language / Wybierz Język / Elige tu Idioma
 
-Protocol Zero is available in multiple languages. Each language edition is complete and self-contained.
+Protocol Zero is currently complete in English. Other language folders are placeholders for upcoming translations.
 
 | Language | Progress |
 |----------|----------|
-| [🇬🇧 English](protocol/en/README.md) | 52 chapters + 6 appendices |
+| [🇬🇧 English](protocol/en/README.md) | 52 chapters + 3 appendices + resources |
 | [🇵🇱 Polski](protocol/pl/README.md) | Coming soon |
 | [🇪🇸 Español](protocol/es/README.md) | Coming soon |
 | [🇩🇪 Deutsch](protocol/de/README.md) | Coming soon |
@@ -23,9 +23,9 @@ Protocol Zero is available in multiple languages. Each language edition is compl
 | **Timeless** | Principles over tools — stays relevant as technology changes |
 | **Practical** | Actionable steps, not just theory |
 | **Free** | Always free, always accessible |
-| **Open** | Community-maintained, transparent versioning |
+| **Open** | Community-maintained |
 
-**Coverage:** 52 chapters across 12 parts + 6 appendices —
+**Coverage:** 52 chapters across 12 parts + 3 appendices + resources —
 
 - Identity & access control (passwords, 2FA, email)
 - Device security (phones, computers, networks)
@@ -43,19 +43,20 @@ Protocol Zero is available in multiple languages. Each language edition is compl
 
 **Read on GitHub** — Browse directly in this repository: [English edition](protocol/en/README.md)
 
-**Website (alpha)** — GitHub Pages site is deployed; active development is ongoing.
+**Website (alpha)** — The website is the primary frontend; it is under active development.
 
 **Download**
 ```
 # clone the repo
-git clone https://github.com/mirmay/protocolzero
+git clone https://github.com/miromaik/protocolzero
 ```
 
 - PDF versions: Coming soon
-- Offline copy: [Releases](https://github.com/mirmay/protocolzero/releases)
+- Offline copy: [Releases](https://github.com/miromaik/protocolzero/releases)
 - Print-friendly: All files are markdown — easily convertible to PDF
 
 **Contribute** — Fix typos, suggest improvements, translate to your language. See [CONTRIBUTING.md](CONTRIBUTING.md).
+
 
 ## Quick Start
 

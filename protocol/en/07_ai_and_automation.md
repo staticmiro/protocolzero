@@ -1,26 +1,26 @@
-# 📖 PART VII:   AI AND AUTOMATION
+# 📖 PART VII: AI AND AUTOMATION
 
 ## 30. Artificial Intelligence: New Tools, Old Threats
 
-AI tools have become accessible to everyone.   Chat interfaces that answer questions, write text, generate images, code, analyze data. 
+AI tools have become accessible to everyone. Chat interfaces that answer questions, write text, generate images, code, analyze data. 
 
-Powerful.   Useful.  But they collect everything you tell them. 
+Powerful. Useful. But they collect everything you tell them. 
 
 ### How AI Language Models Work
 
 **Large Language Models (LLMs):**
 
-AI trained on massive amounts of text from the internet.  Learns patterns, language structure, facts, styles.
+AI trained on massive amounts of text from the internet. Learns patterns, language structure, facts, styles.
 
-You type prompt (question, request, instruction).  AI generates response based on patterns it learned.
+You type prompt (question, request, instruction). AI generates response based on patterns it learned.
 
 **Key understanding:**
 
-AI doesn't "know" things.   It predicts what text should come next based on training. 
+AI doesn't "know" things. It predicts what text should come next based on training. 
 
-Sometimes accurate.   Sometimes plausible-sounding nonsense.  Sometimes completely wrong.
+Sometimes accurate. Sometimes plausible-sounding nonsense. Sometimes completely wrong.
 
-**Always verify information from AI.**  Especially for: 
+**Always verify information from AI.** Especially for: 
 - Medical advice
 - Legal guidance
 - Financial decisions
@@ -43,13 +43,13 @@ Anything you type into AI service is potentially:
 **Never input:**
 
 **Passwords and credentials:**  
-Obvious, but people do it.  "Help me remember my password for..."  Don't. 
+Obvious, but people do it. "Help me remember my password for..." Don't. 
 
 **Personal identifying information:**  
 Social security numbers, passport numbers, driver's license numbers, full legal name with birthdate and address.
 
 **Medical information:**  
-Health conditions, medications, symptoms, medical history.   Privacy laws don't always apply to AI services.
+Health conditions, medications, symptoms, medical history. Privacy laws don't always apply to AI services.
 
 **Financial details:**  
 Bank account numbers, payment card numbers, financial records, tax information.
@@ -78,7 +78,7 @@ Authentication systems, encryption implementations, security mechanisms.
 - Creative projects (stories, ideas)
 - Code snippets (non-sensitive, generic)
 
-**Rule of thumb:**   If you wouldn't post it publicly on the internet with your name attached, don't put it in AI. 
+**Rule of thumb:** If you wouldn't post it publicly on the internet with your name attached, don't put it in AI. 
 
 ### How AI Learns From Your Data
 
@@ -98,7 +98,7 @@ Future versions of AI might generate responses based on patterns from your conve
 
 You ask AI: "How to manage finances with specific rare medical condition."
 
-AI learns this pattern.  Later, someone else asks about that medical condition.  AI's response might reflect information you provided.
+AI learns this pattern. Later, someone else asks about that medical condition. AI's response might reflect information you provided.
 
 **Privacy settings:**
 
@@ -107,9 +107,9 @@ Some AI services offer:
 - Delete conversation history
 - Disable saving conversations
 
-**Find these settings.   Use them.**
+**Find these settings. Use them.**
 
-But understand:   Even with opt-out, your data passes through their servers.  They see it.  Deletion might not be complete.
+But understand: Even with opt-out, your data passes through their servers. They see it. Deletion might not be complete.
 
 ### **[RECOMMENDED]** Opting Out of Model Training
 
@@ -137,7 +137,7 @@ Some AI tools emphasize privacy:
 - Don't use data for training
 - Process queries locally (on your device) when possible
 
-Research before choosing AI tool.  Privacy practices vary wildly.
+Research before choosing AI tool. Privacy practices vary wildly.
 
 **Compartmentalize:**
 
@@ -151,19 +151,19 @@ Don't mix contexts in one conversation history.
 ### Common Mistakes
 
 **Treating AI like a trusted confidant**  
-It's not a person.  It's a service.  Everything you say is recorded.
+It's not a person. It's a service. Everything you say is recorded.
 
 **Assuming conversations are private**  
-They're not.  Employees review them.  Systems analyze them. 
+They're not. Employees review them. Systems analyze them. 
 
 **Trusting AI output without verification**  
-AI confidently presents false information.  Always verify facts, especially for important decisions.
+AI confidently presents false information. Always verify facts, especially for important decisions.
 
 **Using AI for critical decisions without human expertise**  
-Medical diagnosis, legal advice, financial planning require professionals.  AI is supplement, not replacement.
+Medical diagnosis, legal advice, financial planning require professionals. AI is supplement, not replacement.
 
 **Pasting entire documents without redacting sensitive info**  
-"Review this contract" → uploads contract with names, addresses, financial terms.  Redact first. 
+"Review this contract" → uploads contract with names, addresses, financial terms. Redact first. 
 
 **Teaching AI your writing style with personal emails**  
 "Rewrite this email to my doctor" → uploads medical details and personal communication. 
@@ -172,7 +172,7 @@ Medical diagnosis, legal advice, financial planning require professionals.  AI i
 "By using this service you grant us rights to..." might include rights to your inputs.
 
 **Assuming incognito/private browsing protects you**  
-Doesn't matter.  Data still goes to AI service servers.
+Doesn't matter. Data still goes to AI service servers.
 
 ### Quick Wins
 
@@ -186,7 +186,7 @@ Doesn't matter.  Data still goes to AI service servers.
 
 Smart speakers and voice assistants promise hands-free convenience. 
 
-Always listening.  Always ready.  Always transmitting.
+Always listening. Always ready. Always transmitting.
 
 ### What They Hear, What They Record, What They Send
 
@@ -245,7 +245,7 @@ Most voice assistants store history of your voice interactions.
 **What you'll find in history:**
 
 - Every command you've given
-- Accidental activations ("What?  I didn't say the wake word...")
+- Accidental activations ("What? I didn't say the wake word...")
 - Background conversations it misinterpreted as commands
 - Timestamps showing when you're home and active
 
@@ -253,7 +253,7 @@ Most voice assistants store history of your voice interactions.
 
 Set reminder to delete voice history monthly or quarterly.
 
-Some services offer automatic deletion after time period (3 months, 18 months).  Enable if available.
+Some services offer automatic deletion after time period (3 months, 18 months). Enable if available.
 
 ### **[RECOMMENDED]** When to Disable the Microphone
 
@@ -275,12 +275,12 @@ Bedroom, bathroom, anywhere you expect privacy.
 Home office during work calls, client meetings, proprietary discussions.
 
 **When not in use:**  
-If you only use voice assistant occasionally, mute by default.  Unmute when needed.
+If you only use voice assistant occasionally, mute by default. Unmute when needed.
 
 **During travel:**  
 Mute when away so device doesn't react to house-sitters, maintenance workers, visitors.
 
-**Muting doesn't inconvenience you much.**  Press button when you want to use voice assistant.  Security gain is worth minor effort.
+**Muting doesn't inconvenience you much.** Press button when you want to use voice assistant. Security gain is worth minor effort.
 
 ### Balancing Convenience vs Privacy
 
@@ -295,21 +295,21 @@ Voice assistants offer real convenience:
 **Questions to ask:**
 
 **Do I actually use this? **  
-Many people have voice assistant but rarely use it.  If novelty has worn off, remove it.
+Many people have voice assistant but rarely use it. If novelty has worn off, remove it.
 
 **What am I using it for?**  
 Simple tasks (timers, music) vs sensitive tasks (shopping, messaging, accessing personal information).
 
 **Could I do this another way?**  
-Physical light switch vs voice command.  Phone alarm vs voice assistant timer.
+Physical light switch vs voice command. Phone alarm vs voice assistant timer.
 
 **Is convenience worth the privacy trade-off?**  
-Different answer for everyone.  Conscious choice is what matters.
+Different answer for everyone. Conscious choice is what matters.
 
 **Harm reduction strategies if you keep voice assistant:**
 
 **Limit placement:**  
-Kitchen and living room, yes.  Bedroom and bathroom, no.
+Kitchen and living room, yes. Bedroom and bathroom, no.
 
 **Mute when not in use:**  
 Default to muted, unmute for specific uses.
@@ -321,7 +321,7 @@ Prevent accidental or unauthorized orders.
 Remote access to microphone is huge privacy risk.
 
 **Use for non-sensitive tasks only:**  
-Music, timers, weather.   Not shopping, banking, messaging.
+Music, timers, weather. Not shopping, banking, messaging.
 
 **Review and delete recordings regularly:**  
 Monthly cleanup. 
@@ -332,16 +332,16 @@ Unplug during vacations.
 ### Common Mistakes
 
 **Placing in every room**  
-More devices = more surveillance.  Strategic placement is enough.
+More devices = more surveillance. Strategic placement is enough.
 
 **Never reviewing what's been recorded**  
 Shocked to find hours of private conversations captured.
 
 **Assuming it only listens after wake word**  
-False activations happen constantly.  It's always listening for wake word, which means it's always listening.
+False activations happen constantly. It's always listening for wake word, which means it's always listening.
 
 **Using for sensitive tasks**  
-"Alexa, what's my bank balance?"  Spoken aloud, recorded, transmitted.
+"Alexa, what's my bank balance?" Spoken aloud, recorded, transmitted.
 
 **Leaving enabled when not home**  
 Visitors, workers, house-sitters can access information or trigger actions.
@@ -353,7 +353,7 @@ Assume anything said near voice assistant might be recorded.
 Voice assistant linked to door locks, security cameras, garage doors creates attack surface.
 
 **Trusting privacy settings to stay unchanged**  
-Companies update privacy policies and reset settings.  Re-check periodically.
+Companies update privacy policies and reset settings. Re-check periodically.
 
 ### Quick Wins
 
@@ -369,7 +369,7 @@ Automation services connect apps and devices to perform actions automatically.
 
 "If this happens, then do that."
 
-Powerful.  Time-saving.  But creates security and privacy risks.
+Powerful. Time-saving. But creates security and privacy risks.
 
 ### How Not to Grant Access to Everything
 
@@ -385,7 +385,7 @@ You authorize automation service to:
 
 **Each connection is a potential vulnerability.**
 
-### **[CRITICAL]** App Permissions:    Minimal vs Full
+### **[CRITICAL]** App Permissions: Minimal vs Full
 
 When connecting service to automation platform, you grant permissions. 
 
@@ -400,7 +400,7 @@ Read-only, or specific scopes (e.g., "post to Twitter" but not "read direct mess
 **Questions before granting access:**
 
 **Does automation actually need this permission?**  
-Automation posts daily quote to social media.   Needs:  post permission.  Doesn't need: read DMs, access followers list.
+Automation posts daily quote to social media. Needs: post permission. Doesn't need: read DMs, access followers list.
 
 **What's the worst case if this is compromised?**  
 If automation service is hacked or malicious, what can attacker do with these permissions?
@@ -418,7 +418,7 @@ Research:
 
 ### **[RECOMMENDED]** Regular Audits of Connected Services
 
-Over time, you accumulate connected services.  Automations you set up and forgot about.  Apps you no longer use but still have access. 
+Over time, you accumulate connected services. Automations you set up and forgot about. Apps you no longer use but still have access. 
 
 **Quarterly audit:**
 
@@ -434,7 +434,7 @@ For each connected app:
 
 **2. Revoke unused access:**
 
-Any automation or app you don't recognize or don't use anymore:   revoke access immediately.
+Any automation or app you don't recognize or don't use anymore: revoke access immediately.
 
 **3. Update permissions:**
 
@@ -457,7 +457,7 @@ Failed automations can cause problems (repeated attempts, partial completion, no
 
 Automation services use tokens to access your accounts on your behalf.
 
-**Tokens are like passwords.**  Anyone with token can access your account (within permission scope).
+**Tokens are like passwords.** Anyone with token can access your account (within permission scope).
 
 **Protection:**
 
@@ -471,39 +471,39 @@ Generate new token, update automations, delete old token.
 If service allows granular token permissions, use them.
 
 **Monitor token usage:**  
-Some services show when and how tokens are used.  Unexpected usage = compromise.
+Some services show when and how tokens are used. Unexpected usage = compromise.
 
 **Revoke tokens when no longer needed:**  
-Finished with automation?   Delete token.
+Finished with automation? Delete token.
 
 **Store tokens securely:**  
-If you need to save token, use password manager.   Not plain text file on desktop.
+If you need to save token, use password manager. Not plain text file on desktop.
 
 ### Common Mistakes
 
 **Connecting every service "because I can"**  
-Automation for automation's sake.   Each connection is attack surface.
+Automation for automation's sake. Each connection is attack surface.
 
 **Granting full access when limited would work**  
-"This automation needs to read my calendar" → grants full calendar read/write/delete.   Overkill.
+"This automation needs to read my calendar" → grants full calendar read/write/delete. Overkill.
 
 **Setting up automation and forgetting it exists**  
-Years later, service still has access to your account.  Company might have changed ownership, been hacked, or pivoted to different business model.
+Years later, service still has access to your account. Company might have changed ownership, been hacked, or pivoted to different business model.
 
 **Not revoking access when automation breaks**  
-Automation stops working.  You stop using it.  But access remains.
+Automation stops working. You stop using it. But access remains.
 
 **Using automation for sensitive tasks**  
 Automating financial transactions, medical data processing, legal document handling without understanding security implications.
 
 **Trusting free automation services without research**  
-Free service needs revenue somehow.  Is it from selling your data?  Ads?  Legitimate paid tier upselling?
+Free service needs revenue somehow. Is it from selling your data? Ads? Legitimate paid tier upselling?
 
 **Not monitoring automation actions**  
-Automation goes wrong (bug, misconfiguration, compromise).  Sends hundreds of emails, deletes files, posts embarrassing content.  You don't notice for days.
+Automation goes wrong (bug, misconfiguration, compromise). Sends hundreds of emails, deletes files, posts embarrassing content. You don't notice for days.
 
 **Chaining too many automations**  
-Automation triggers automation triggers automation.  Complexity creates unpredictability and security holes.
+Automation triggers automation triggers automation. Complexity creates unpredictability and security holes.
 
 ### Quick Wins
 
@@ -512,7 +512,7 @@ Automation triggers automation triggers automation.  Complexity creates unpredic
 - **10 minutes:** Review permissions for remaining automations, reduce to minimal necessary.
 - **Ongoing:** Before creating new automation, ask: "Do I need this, or just want it?"
 
-*Automation serves you, or you serve automation.   Stay in control.  Regular audits keep power in your hands.*
+*Automation serves you, or you serve automation. Stay in control. Regular audits keep power in your hands.*
 
 ---
 [← Back to Protocol Zero README](README.md)

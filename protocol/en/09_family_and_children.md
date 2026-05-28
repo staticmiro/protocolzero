@@ -1,10 +1,10 @@
-# 📖 PART IX:     FAMILY AND CHILDREN
+# 📖 PART IX: FAMILY AND CHILDREN
 
 ## 36. Parental Controls: Protection Without Spying
 
-Children need protection online.   But they also need privacy and trust. 
+Children need protection online. But they also need privacy and trust. 
 
-Balance is difficult.  There's no perfect answer.  But there are principles. 
+Balance is difficult. There's no perfect answer. But there are principles. 
 
 ### **[RECOMMENDED]** Tools and Approaches
 
@@ -48,12 +48,12 @@ Many platforms offer family/child modes:
 
 Depends on child's age, maturity, specific concerns, family values. 
 
-Younger children:   More restrictive, device/router controls.  
-Older children/teens:   Lighter touch, more trust, focused on education and communication.
+Younger children: More restrictive, device/router controls.  
+Older children/teens: Lighter touch, more trust, focused on education and communication.
 
 ### **[CRITICAL]** How to Talk to Children About Internet
 
-**Technology controls are not enough.    Education is essential.**
+**Technology controls are not enough. Education is essential.**
 
 **Age-appropriate conversations:**
 
@@ -85,7 +85,7 @@ Older children/teens:   Lighter touch, more trust, focused on education and comm
 
 **Create safe environment for disclosure:**
 
-"If something bad happens online, tell me.   You won't be in trouble.   We'll handle it together."
+"If something bad happens online, tell me. You won't be in trouble. We'll handle it together."
 
 Children hide problems if they fear punishment or device taken away. 
 
@@ -100,11 +100,11 @@ Children imitate parents.
 
 "The internet is full of predators" creates fear but not competence.
 
-Better:    "Most people online are fine, but some are not.   Here's how to tell the difference and what to do."
+Better: "Most people online are fine, but some are not. Here's how to tell the difference and what to do."
 
 ### **[RECOMMENDED]** Teenage Privacy Boundaries
 
-Teens need privacy.   They're developing independence, identity, relationships.
+Teens need privacy. They're developing independence, identity, relationships.
 
 Complete surveillance damages trust and development.
 
@@ -128,8 +128,8 @@ Complete surveillance damages trust and development.
 
 **Respect increases with age:**
 
-13-year-old:   more oversight appropriate.   
-17-year-old:   much more privacy appropriate. 
+13-year-old: more oversight appropriate.   
+17-year-old: much more privacy appropriate. 
 
 Gradual release of control as they demonstrate responsibility.
 
@@ -187,10 +187,10 @@ Many services offer family plans:
 ### Common Mistakes
 
 **No controls at all**  
-"My child is smart, they'll be fine."   Even smart children make mistakes and encounter threats.  
+"My child is smart, they'll be fine." Even smart children make mistakes and encounter threats.  
 
 **Total lockdown with no explanation**  
-Creates resentment and rebellion.   Children need to understand why rules exist.
+Creates resentment and rebellion. Children need to understand why rules exist.
 
 **Surveillance without child's knowledge**  
 Destroys trust when discovered (and they will discover).
@@ -205,10 +205,10 @@ Reading diary-like private messages between friends, punishing teenager for comp
 Different ages, maturity levels, needs require different approaches.
 
 **Parents having no limits themselves**  
-"No phones at dinner" but parent checks email throughout meal.  Hypocrisy undermines rules.
+"No phones at dinner" but parent checks email throughout meal. Hypocrisy undermines rules.
 
 **Taking device away as first response to all problems**  
-Punishment should match offense.   For minor issues, conversation first.
+Punishment should match offense. For minor issues, conversation first.
 
 **Not educating about why dangers exist**  
 "Don't talk to strangers online" without explaining predator tactics means child won't recognize danger.
@@ -223,7 +223,7 @@ Punishment should match offense.   For minor issues, conversation first.
 
 ## 37. Digital Education for Younger Children
 
-Children are digital natives.  They know how to use technology. 
+Children are digital natives. They know how to use technology. 
 
 But using technology doesn't mean understanding it.
 
@@ -243,7 +243,7 @@ Depends on:
 **General guidance:**
 
 **Computer access (supervised):**  
-Early elementary school.    Educational games, supervised browsing, learning to type.
+Early elementary school. Educational games, supervised browsing, learning to type.
 
 **Smartphone (personal device):**  
 Many experts suggest waiting until at least middle school (12-14).
@@ -298,7 +298,7 @@ Can they:
 
 Not without parent knowledge, presence, and approval.
 
-Even "friends" met online.   People lie. 
+Even "friends" met online. People lie. 
 
 **3. Don't accept friend/follow requests from people you don't know in real life:**
 
@@ -312,7 +312,7 @@ Stranger is stranger, regardless of friendly profile.
 - You see something upsetting or confusing
 - You accidentally click something you shouldn't have
 
-**Not in trouble for telling.   Always safe to tell parent.**
+**Not in trouble for telling. Always safe to tell parent.**
 
 **5. Passwords are private:**
 
@@ -321,7 +321,7 @@ Share only with parents (until older teen with demonstrated responsibility).
 
 **6. Think before posting:**
 
-Would you want teacher to see this?  Grandparents?  Everyone at school?  
+Would you want teacher to see this? Grandparents? Everyone at school?  
 
 If no, don't post. 
 
@@ -333,7 +333,7 @@ Cyberbullying is real bullying.
 
 **8. Not everything online is true:**
 
-People lie.   Photos are edited.  News can be fake.  
+People lie. Photos are edited. News can be fake.  
 Check with trusted adult before believing or sharing.
 
 ### Recognizing Scams and Clickbait
@@ -343,27 +343,27 @@ Check with trusted adult before believing or sharing.
 **Scams:**
 
 **"You've won a prize!"**  
-You didn't enter a contest.  It's fake.
+You didn't enter a contest. It's fake.
 
 **"Click here to get free [game currency/popular item]!"**  
 Will steal account or install malware.
 
 **"I'm a Nigerian prince..." or variations**  
-Classic scam.  Not real.
+Classic scam. Not real.
 
 **"Your account will be deleted unless you click this link"**  
-Phishing.   Don't click.
+Phishing. Don't click.
 
 **Messages from "friends" asking for money/gift cards**  
-Account is hacked.  Verify through different method (call them).
+Account is hacked. Verify through different method (call them).
 
 **Clickbait:**
 
 **Outrageous headlines:**  
-"You won't believe what happened next!"   Article is usually disappointing or fake.
+"You won't believe what happened next!" Article is usually disappointing or fake.
 
 **Fake download buttons:**  
-Ads designed to look like download buttons.  Clicking installs malware instead of game/app.
+Ads designed to look like download buttons. Clicking installs malware instead of game/app.
 
 **"Free" apps that charge:**  
 Free to download, but expensive in-app purchases or subscriptions.
@@ -379,13 +379,13 @@ Ask questions:
 - "How do they know?" (evidence)
 - "What do they want you to do?" (call to action)
 
-Practice with examples together.  Make it a game.
+Practice with examples together. Make it a game.
 
 ### **[RECOMMENDED]** Building Healthy Habits
 
 **Screen time limits:**
 
-Recommended limits vary by age.    General principle:    balance. 
+Recommended limits vary by age. General principle: balance. 
 
 Screen time shouldn't replace:
 - Physical activity
@@ -417,7 +417,7 @@ Screen time shouldn't replace:
 
 An hour of educational content is different from an hour of mindless scrolling.
 
-Quality matters.   Co-view when possible.  Discuss what they're watching/playing.
+Quality matters. Co-view when possible. Discuss what they're watching/playing.
 
 **Model healthy habits:**
 
@@ -459,21 +459,21 @@ Practice what you preach:
 - Delete evidence
 - Blame yourself
 
-**Cyberbullying is not victim's fault.   Always report.**
+**Cyberbullying is not victim's fault. Always report.**
 
 ### Common Mistakes
 
 **Handing device without instruction**  
-Device is not babysitter.  Needs education and supervision.
+Device is not babysitter. Needs education and supervision.
 
 **Assuming school teaches digital literacy**  
-Some do.   Many don't.  Parent responsibility to ensure children learn.
+Some do. Many don't. Parent responsibility to ensure children learn.
 
 **Waiting until problem occurs to have conversations**  
-Proactive education prevents problems.  Reactive is too late.
+Proactive education prevents problems. Reactive is too late.
 
 **Using fear instead of education**  
-"Internet is dangerous, never use it" doesn't work.  Teaching safe use does.
+"Internet is dangerous, never use it" doesn't work. Teaching safe use does.
 
 **Not enforcing rules consistently**  
 Rules with no consequences teach that rules don't matter.
@@ -497,15 +497,15 @@ Sudden behavior changes, secretiveness, anxiety about devices can indicate probl
 
 ## 38. Minor Accounts: Who Owns Them
 
-Children use digital services.  But legally, they can't own accounts.
+Children use digital services. But legally, they can't own accounts.
 
-Who controls the data?   Who decides what stays and what goes?
+Who controls the data? Who decides what stays and what goes?
 
 ### Creating Children's Accounts
 
 **Age restrictions:**
 
-Most services require users to be 13+ (in US due to COPPA - Children's Online Privacy Protection Act).  Other countries have similar laws.
+Most services require users to be 13+ (in US due to COPPA - Children's Online Privacy Protection Act). Other countries have similar laws.
 
 **Why age restrictions exist:**
 - Privacy protections for children
@@ -513,23 +513,23 @@ Most services require users to be 13+ (in US due to COPPA - Children's Online Pr
 - Data collection limits
 - Parental consent requirements
 
-**Children lie about age.**  Everyone knows this.  Enforcement is minimal.
+**Children lie about age.** Everyone knows this. Enforcement is minimal.
 
 **Parent's choice:**
 
-**Option 1:  Wait until appropriate age**  
-Follow terms of service.  Child waits until 13.
+**Option 1: Wait until appropriate age**  
+Follow terms of service. Child waits until 13.
 
-**Option 2:  Create child account under parent's supervision**  
+**Option 2: Create child account under parent's supervision**  
 Some services offer child accounts managed by parent.
 
-**Option 3:  Allow child to lie about age**  
-Happens frequently.  Violates TOS.  Account can be deleted if discovered.  Child gets no protections designed for minors.
+**Option 3: Allow child to lie about age**  
+Happens frequently. Violates TOS. Account can be deleted if discovered. Child gets no protections designed for minors.
 
-**Option 4:  Create account in parent's name for child's use**  
+**Option 4: Create account in parent's name for child's use**  
 Parent legally responsible for account activity.
 
-**Recommended:   Options 1 or 2.**
+**Recommended: Options 1 or 2.**
 
 **Child accounts (when available):**
 
@@ -551,7 +551,7 @@ Set these up properly:
 **Parent access to child's accounts:**
 
 **Younger children:**  
-Full access appropriate.   Parent knows passwords, can log in, monitors activity.
+Full access appropriate. Parent knows passwords, can log in, monitors activity.
 
 **Older children/teens:**  
 Gradual privacy.   
@@ -563,14 +563,14 @@ Conversation about expectations:
 
 Trust but verify. 
 
-**Balance:**  Safety vs privacy vs trust.
+**Balance:** Safety vs privacy vs trust.
 
 **Permission management:**
 
 Review app permissions on child's devices: 
-- Does game need access to contacts?  No.  Disable.
-- Does app need location?   Probably not.  Disable.
-- Camera/microphone?  Only for apps that obviously need it (video chat, photography apps).
+- Does game need access to contacts? No. Disable.
+- Does app need location? Probably not. Disable.
+- Camera/microphone? Only for apps that obviously need it (video chat, photography apps).
 
 **Purchase controls:**
 
@@ -593,14 +593,14 @@ For younger children:
 
 ### Transferring Control After Adulthood
 
-Child turns 18.   Legally adult. 
+Child turns 18. Legally adult. 
 
 **Transition:**
 
 **Before 18:**  
 Gradual increase in privacy and autonomy as they approach adulthood.
 
-At 17:   They should have nearly full control already (with understanding that parents have legal authority).
+At 17: They should have nearly full control already (with understanding that parents have legal authority).
 
 **At 18:**
 
@@ -617,7 +617,7 @@ If accounts were child accounts under family plan:
 
 **Password changes:**
 
-Child changes passwords.   Parent no longer has access (unless adult child chooses to share).
+Child changes passwords. Parent no longer has access (unless adult child chooses to share).
 
 **Payment responsibility:**
 
@@ -627,11 +627,11 @@ Or negotiates who pays for what (parent might continue paying phone bill, for ex
 
 **Conversation, not conflict:**
 
-"You're an adult now.  Your accounts are yours.   I won't access them without your permission."
+"You're an adult now. Your accounts are yours. I won't access them without your permission."
 
 Maintains trust in adult relationship.
 
-### History and Data:     What Remains, What Disappears
+### History and Data: What Remains, What Disappears
 
 **Digital footprint from childhood:**
 
@@ -659,11 +659,11 @@ Even after deleting posts or accounts, data might remain:
 - Screenshots others took
 - Search engine caches
 
-Perfect erasure is impossible.  But reduction is worthwhile.
+Perfect erasure is impossible. But reduction is worthwhile.
 
 **Conversation about permanence:**
 
-"What you post now affects future you.  Think before posting."
+"What you post now affects future you. Think before posting."
 
 Examples of people facing consequences for old posts can be teaching moments.
 
@@ -688,22 +688,22 @@ Violates terms, teaches dishonesty, removes protections for minors.
 No gradual privacy = damaged trust and poor preparation for independence.
 
 **Never discussing what happens at 18**  
-Sudden complete access cutoff can create conflict.  Plan transition. 
+Sudden complete access cutoff can create conflict. Plan transition. 
 
 **Not cleaning up digital footprint before adulthood**  
 Embarrassing childhood posts follow them forever.
 
 **Sharing child's photos/information publicly without considering their future**  
-"Sharenting" (oversharing about children).   They can't consent.   Affects their privacy permanently.
+"Sharenting" (oversharing about children). They can't consent. Affects their privacy permanently.
 
 **Creating accounts for very young children**  
-Toddler doesn't need social media account.  Wait. 
+Toddler doesn't need social media account. Wait. 
 
 **Not teaching children to manage their own digital presence**  
-If parent controls everything until 18, child doesn't learn.    Gradual responsibility teaches skills.
+If parent controls everything until 18, child doesn't learn. Gradual responsibility teaches skills.
 
 **Assuming deleting account deletes all data**  
-Data often retained.   Request full deletion under data protection laws.
+Data often retained. Request full deletion under data protection laws.
 
 ### Quick Wins
 
@@ -712,7 +712,7 @@ Data often retained.   Request full deletion under data protection laws.
 - **30 minutes:** Have conversation with older child/teen about transition of account ownership as they approach adulthood. 
 - **Variable:** Help child review and clean up old social media posts before college applications.
 
-*Protecting children online is not about control.  It's about education, trust, and preparing them for independence.*
+*Protecting children online is not about control. It's about education, trust, and preparing them for independence.*
 
 ---
 [← Back to Protocol Zero README](README.md)

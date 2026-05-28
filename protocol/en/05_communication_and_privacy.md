@@ -2,7 +2,7 @@
 
 ## 18. Messengers: Who Reads Your Messages
 
-You send thousands of messages.  Personal conversations.  Work discussions. Family chat. Medical questions. Financial information. Relationship problems. 
+You send thousands of messages. Personal conversations. Work discussions. Family chat. Medical questions. Financial information. Relationship problems. 
 
 These messages reveal your life. Who do you trust with all of this? 
 
@@ -18,11 +18,11 @@ Not all messaging is equally private.
 - Should be considered postcards, not sealed letters
 
 **Most Popular Messaging Apps:**
-Some use end-to-end encryption.  Some don't. Some encrypt by default. Some only in specific modes.
+Some use end-to-end encryption. Some don't. Some encrypt by default. Some only in specific modes.
 
 The app being "secure" doesn't matter if encryption isn't enabled or properly implemented.
 
-### **[CRITICAL]** End-to-End Encryption:   What It Really Means
+### **[CRITICAL]** End-to-End Encryption: What It Really Means
 
 **End-to-end encryption (E2E)** means:
 - Message is encrypted on your device
@@ -47,7 +47,7 @@ Without E2E, your messages are readable by:
 - Governments who subpoena or demand access
 - Anyone who intercepts network traffic
 
-With E2E, only you and recipient can read messages.  Even if service is hacked or compelled to hand over data, messages remain encrypted.
+With E2E, only you and recipient can read messages. Even if service is hacked or compelled to hand over data, messages remain encrypted.
 
 **Verify E2E is actually enabled:**
 
@@ -58,7 +58,7 @@ Look for:
 - Security codes or fingerprints you can verify with recipient
 - Documentation that states encryption is automatic and always-on
 
-### **[RECOMMENDED]** Metadata:   Why "Who, When, How Long" Also Matters
+### **[RECOMMENDED]** Metadata: Why "Who, When, How Long" Also Matters
 
 Even with E2E encryption protecting message content, metadata reveals enormous amounts of information. 
 
@@ -85,32 +85,32 @@ Patterns tell stories. Even if content is encrypted, metadata maps your life.
 
 **Different apps handle metadata differently:**
 
-Some minimize metadata collection.  Some claim they can't see it. Some log everything.  
+Some minimize metadata collection. Some claim they can't see it. Some log everything.  
 
 Read privacy policy and technical documentation to understand what metadata is collected and retained.
 
 ### How to Transition Contacts to Secure Messenger
 
-You want to use secure messaging.  Your friends and family use insecure options.
+You want to use secure messaging. Your friends and family use insecure options.
 
-**This is the hardest part of digital security:   you can't do it alone.**
+**This is the hardest part of digital security: you can't do it alone.**
 
 **Strategies:**
 
 **Start with willing participants:**  
-Find friends/family who care about privacy. Switch with them first.  Create critical mass.
+Find friends/family who care about privacy. Switch with them first. Create critical mass.
 
 **Use for specific conversations:**  
-"Hey, let's discuss financial stuff on [secure app]" or "Medical things on [secure app]."  You don't need to switch everything immediately.
+"Hey, let's discuss financial stuff on [secure app]" or "Medical things on [secure app]." You don't need to switch everything immediately.
 
 **Explain benefits without preaching:**  
 "This app is more private and the company can't read our messages" is better than "You're being irresponsible using insecure messaging."
 
 **Install it for them:**  
-Visit in person, install app on their phone, set it up together, send first message.  Friction of installation is biggest barrier.
+Visit in person, install app on their phone, set it up together, send first message. Friction of installation is biggest barrier.
 
 **Accept partial adoption:**  
-Not everyone will switch. That's okay. Secure some conversations.   Better than securing none.
+Not everyone will switch. That's okay. Secure some conversations. Better than securing none.
 
 **Don't be annoying:**  
 Constantly nagging about switching apps makes people defensive. Lead by example.
@@ -124,16 +124,16 @@ Coordinating dinner plans doesn't need E2E encryption. Save secure messaging for
 Popularity doesn't equal security. Research what encryption app actually uses.
 
 **Trusting "encrypted" without verifying end-to-end**  
-Many apps encrypt data in transit (to their servers) but can still read messages on their servers.  This is NOT end-to-end encryption.
+Many apps encrypt data in transit (to their servers) but can still read messages on their servers. This is NOT end-to-end encryption.
 
 **Enabling cloud backup without understanding implications**  
-Some E2E apps offer cloud backup.   Often this backup is NOT end-to-end encrypted.  Messages backed up to cloud can be read by cloud provider.
+Some E2E apps offer cloud backup. Often this backup is NOT end-to-end encrypted. Messages backed up to cloud can be read by cloud provider.
 
 **Not verifying security codes**  
-E2E apps show security codes/fingerprints to verify you're actually talking to intended person (protection against man-in-the-middle attacks).  Most people ignore these.  For high-stakes conversations, verify codes.
+E2E apps show security codes/fingerprints to verify you're actually talking to intended person (protection against man-in-the-middle attacks). Most people ignore these. For high-stakes conversations, verify codes.
 
 **Discussing sensitive topics in group chats**  
-Group chats are only as secure as the least secure member.  Someone screenshots and shares.  Someone's phone gets compromised.   Keep sensitive discussions to one-on-one. 
+Group chats are only as secure as the least secure member. Someone screenshots and shares. Someone's phone gets compromised. Keep sensitive discussions to one-on-one. 
 
 **Leaving messages on device forever**  
 If device is compromised, all message history is exposed. Use disappearing messages for sensitive conversations or manually delete old messages.
@@ -148,7 +148,7 @@ If device is compromised, all message history is exposed. Use disappearing messa
 
 ## 19. Browser: Window to the World, Hole in the Wall
 
-Your browser is the tool you use most on your computer.   Every website.   Every search.  Every online purchase. Every form filled out. 
+Your browser is the tool you use most on your computer. Every website. Every search. Every online purchase. Every form filled out. 
 
 It knows everything about you. And it tells others. 
 
@@ -159,7 +159,7 @@ Browsers differ significantly in privacy, security, and data collection.
 **Factors to consider:**
 
 **Privacy policy:**  
-What data does browser collect? Is it sold?  Shared? 
+What data does browser collect? Is it sold? Shared? 
 
 **Default settings:**  
 Privacy-focused by default, or do you have to change many settings?
@@ -173,18 +173,18 @@ Regular security updates are critical. Browser must be actively maintained.
 **Company business model:**  
 How does browser maker earn money? Advertising (incentive to track you)? Subscriptions (incentive to serve you)? 
 
-**No perfect browser exists.**  Each has trade-offs between privacy, convenience, compatibility.
+**No perfect browser exists.** Each has trade-offs between privacy, convenience, compatibility.
 
 ### **[RECOMMENDED]** Extensions for Privacy and Security
 
-Browser extensions add functionality.  Some dramatically improve privacy and security.
+Browser extensions add functionality. Some dramatically improve privacy and security.
 
 **Essential extensions:**
 
 **Ad blocker:**  
 Blocks advertisements and tracking scripts. Ads track you across websites, slow page loading, increase data usage, sometimes carry malware.
 
-Benefits:  Faster browsing, less tracking, cleaner pages, security improvement.
+Benefits: Faster browsing, less tracking, cleaner pages, security improvement.
 
 **HTTPS enforcer:**  
 Forces encrypted connections when available. Prevents accidental connection to unencrypted sites.
@@ -195,8 +195,8 @@ Blocks invisible trackers that follow you across websites. Learns which domains 
 **Script blocker (advanced):**  
 Blocks JavaScript by default. You whitelist sites you trust.  
 
-Benefits:  Massive privacy and security improvement.   
-Drawbacks:  Breaks many websites.  Requires manual whitelisting.  Not for beginners.
+Benefits: Massive privacy and security improvement.   
+Drawbacks: Breaks many websites. Requires manual whitelisting. Not for beginners.
 
 **Password manager extension:**  
 Integrates password manager with browser for convenient autofill.
@@ -210,12 +210,12 @@ Only install extensions from official browser extension store. Research extensio
 - Permissions requested
 - Update frequency
 
-Malicious extensions can steal all your data.  Be selective.
+Malicious extensions can steal all your data. Be selective.
 
 **Don't over-install:**  
-Each extension is a potential security risk and privacy leak.  Install only what you need and trust. 
+Each extension is a potential security risk and privacy leak. Install only what you need and trust. 
 
-### Private Mode:   What It Does and Doesn't Do
+### Private Mode: What It Does and Doesn't Do
 
 Private/Incognito mode prevents browser from saving: 
 - Browsing history
@@ -240,7 +240,7 @@ Private/Incognito mode prevents browser from saving:
 
 ### Clearing History and Cookies
 
-Cookies track you.  History reveals everywhere you've been.
+Cookies track you. History reveals everywhere you've been.
 
 **When to clear:**
 
@@ -263,15 +263,15 @@ Choose:
 
 **Trade-offs:**
 
-Clearing cookies logs you out of websites.  You'll need to log back in. 
+Clearing cookies logs you out of websites. You'll need to log back in. 
 
 Clearing cache means websites load slower initially (have to re-download resources).
 
 **Selective clearing:**
 
-Most browsers let you clear cookies for specific sites instead of everything.  Use this to stay logged in to trusted sites while clearing tracking cookies.
+Most browsers let you clear cookies for specific sites instead of everything. Use this to stay logged in to trusted sites while clearing tracking cookies.
 
-### Browser Containers:   Separating Identities Within One Browser
+### Browser Containers: Separating Identities Within One Browser
 
 Some browsers support containers (also called profiles or multi-account containers).
 
@@ -302,7 +302,7 @@ Prevent social media from tracking you across the web.
 Keep financial sites completely isolated. 
 
 **Benefit:**  
-Compartmentalization limits damage from tracking and compromise.  If one container is compromised, others remain isolated.
+Compartmentalization limits damage from tracking and compromise. If one container is compromised, others remain isolated.
 
 ### Common Mistakes
 
@@ -319,13 +319,13 @@ Private mode only affects local device. Network sees everything.
 Old browsers have known security vulnerabilities actively exploited.
 
 **Using browser made by advertising company and expecting privacy**  
-Business model conflict:   they profit from tracking you.
+Business model conflict: they profit from tracking you.
 
 **Logging into personal accounts on work/school computer**  
-They can see everything.  Keep personal and work separate.
+They can see everything. Keep personal and work separate.
 
 **Ignoring HTTPS warnings**  
-If browser warns connection is not secure, don't proceed.  Especially don't enter passwords or sensitive data.
+If browser warns connection is not secure, don't proceed. Especially don't enter passwords or sensitive data.
 
 ### Quick Wins
 
@@ -337,7 +337,7 @@ If browser warns connection is not secure, don't proceed.  Especially don't ente
 
 ## 20. Online Tracking: Who Knows Where You Click
 
-You visit a website. You leave.  You go to different website. They know you were just on first website. 
+You visit a website. You leave. You go to different website. They know you were just on first website. 
 
 You search for something. Days later, ads for that thing follow you everywhere.
 
@@ -366,7 +366,7 @@ Even without cookies, your browser reveals:
 - Operating system
 - Hardware details
 
-Combined, these create unique fingerprint.  You can be tracked across websites without any cookies. 
+Combined, these create unique fingerprint. You can be tracked across websites without any cookies. 
 
 Fingerprinting is harder to block than cookies. 
 
@@ -417,7 +417,7 @@ This profile is used to:
 
 **Data download/export features:**
 
-Most large tech companies offer ability to download your data.  Use it. 
+Most large tech companies offer ability to download your data. Use it. 
 
 You can see:
 - What data they've collected
@@ -459,7 +459,7 @@ They know:
 
 **Opt-out process:**
 
-Each broker has opt-out process.  Usually: 
+Each broker has opt-out process. Usually: 
 1. Find yourself on their website
 2. Submit opt-out request
 3. Verify via email
@@ -474,11 +474,11 @@ Each broker has opt-out process.  Usually:
 
 **Opt-out services:**
 
-Services exist that automate opt-out requests for you.  Subscription-based.  
+Services exist that automate opt-out requests for you. Subscription-based.  
 
-Evaluate:  Is your threat model high enough to warrant this expense and effort? 
+Evaluate: Is your threat model high enough to warrant this expense and effort? 
 
-For most people:   Focus on limiting new data collection rather than removing existing data from brokers.
+For most people: Focus on limiting new data collection rather than removing existing data from brokers.
 
 ### Common Mistakes
 
@@ -486,7 +486,7 @@ For most people:   Focus on limiting new data collection rather than removing ex
 Websites still track you via IP, fingerprinting, accounts you're logged into.
 
 **Accepting all cookies without reading**  
-Cookie consent popups are annoying. Clicking "accept all" is easy.  But you're consenting to extensive tracking.  Click "reject all" or customize to minimum necessary.
+Cookie consent popups are annoying. Clicking "accept all" is easy. But you're consenting to extensive tracking. Click "reject all" or customize to minimum necessary.
 
 **Not using ad blocker**  
 Ads are primary tracking mechanism. Blocking ads blocks much tracking.
@@ -495,7 +495,7 @@ Ads are primary tracking mechanism. Blocking ads blocks much tracking.
 While logged in, social media tracks you across all websites with their embedded buttons and widgets, even if you don't click them.
 
 **Ignoring privacy settings**  
-Most platforms have privacy settings buried deep.  Default settings maximize data collection.  Change them.
+Most platforms have privacy settings buried deep. Default settings maximize data collection. Change them.
 
 **Using same email for everything**  
 Allows easy correlation of all your accounts and activities.
@@ -511,9 +511,9 @@ Out of sight, out of mind. Check periodically to understand extent of data colle
 - **15 minutes:** Search your name on data broker site, see what's listed.
 
 
-## 21. Social Media:  Life on Display
+## 21. Social Media: Life on Display
 
-Social media is designed to encourage sharing.  The more you share, the more data they collect, the more precisely they can target ads, the more money they make.
+Social media is designed to encourage sharing. The more you share, the more data they collect, the more precisely they can target ads, the more money they make.
 
 Your privacy is not their priority.
 
@@ -536,7 +536,7 @@ Is your email, phone number, address visible? To everyone or just friends?
 Can people find you via search engines? Via platform search?
 
 **Tagging:**  
-Can others tag you in posts/photos without permission?  Can you review tags before they appear?
+Can others tag you in posts/photos without permission? Can you review tags before they appear?
 
 **Friend/follower lists:**  
 Are your connections visible to others? 
@@ -555,7 +555,7 @@ Can you limit ad targeting? Opt out of personalized ads?
 
 **Process:**
 
-Set aside 30-60 minutes per platform.  Go through every privacy setting.  Choose most restrictive option that still allows you to use platform as intended.
+Set aside 30-60 minutes per platform. Go through every privacy setting. Choose most restrictive option that still allows you to use platform as intended.
 
 **Settings change:**
 
@@ -566,16 +566,16 @@ Platforms frequently update interfaces and reset settings. Review annually.
 Different visibility levels for different audiences. 
 
 **Public:**  
-Anyone on internet can see.  Searchable.  Archived.  Forever. 
+Anyone on internet can see. Searchable. Archived. Forever. 
 
-Assume:   Employers, future employers, family, criminals, stalkers, government.
+Assume: Employers, future employers, family, criminals, stalkers, government.
 
 Post publicly only what you'd be comfortable with anyone seeing.
 
 **Friends/Connections:**  
 People you've explicitly connected with. 
 
-But:   Friends screenshot and share. Friends get hacked. Friends become enemies.  
+But: Friends screenshot and share. Friends get hacked. Friends become enemies.  
 
 Share with friends only what you'd be okay with becoming public eventually.
 
@@ -638,7 +638,7 @@ Some platforms let you opt out of facial recognition. Do so if you value privacy
 
 Years of social media history can be embarrassing, compromising, or simply no longer representative of who you are. 
 
-Employers search candidates.  Schools investigate students. Adversaries look for ammunition.
+Employers search candidates. Schools investigate students. Adversaries look for ammunition.
 
 **Options:**
 
@@ -651,11 +651,11 @@ Scripts and services that delete all posts before certain date, or posts matchin
 Faster but less selective.
 
 **Account deletion:**  
-Nuclear option.  Deletes everything.  Cannot be undone on most platforms.
+Nuclear option. Deletes everything. Cannot be undone on most platforms.
 
 **Before deleting:**
 
-**Download archive** of your data.  You might want photos, messages, or information later.
+**Download archive** of your data. You might want photos, messages, or information later.
 
 **Consider editing instead of deleting** for some posts (change public to friends-only).
 
@@ -668,12 +668,12 @@ Nuclear option.  Deletes everything.  Cannot be undone on most platforms.
 - Arguments and conflicts
 - Check-ins revealing home address or routine
 
-Regularly audit old posts.  Delete or restrict visibility as appropriate.
+Regularly audit old posts. Delete or restrict visibility as appropriate.
 
 ### Common Mistakes
 
 **Never reviewing privacy settings**  
-Most people set up account and never touch settings again.  Defaults favor platform, not you.
+Most people set up account and never touch settings again. Defaults favor platform, not you.
 
 **Sharing real-time location**  
 "At the beach!" tells burglars you're not home. Wait until you're back to post.
@@ -682,16 +682,16 @@ Most people set up account and never touch settings again.  Defaults favor platf
 Strangers, bots, catfish, stalkers. Be selective.
 
 **Posting about children without considering their privacy**  
-They can't consent. Their entire childhood documented online before they can choose.  Consider their future privacy.
+They can't consent. Their entire childhood documented online before they can choose. Consider their future privacy.
 
 **Using social login for other services**  
-"Sign in with Facebook/Google" is convenient but gives platform access to what you do on that other service.  Use separate credentials.
+"Sign in with Facebook/Google" is convenient but gives platform access to what you do on that other service. Use separate credentials.
 
 **Forgetting posts are forever**  
 Deleted from your profile doesn't mean deleted from internet. Screenshots, archives, backups.
 
 **Oversharing in the moment**  
-Emotions high, post something.  Regret later. Pause before posting personal, controversial, or emotional content.
+Emotions high, post something. Regret later. Pause before posting personal, controversial, or emotional content.
 
 ### Quick Wins
 
@@ -703,7 +703,7 @@ Emotions high, post something.  Regret later. Pause before posting personal, con
 
 ## 22. Removing Traces: Zombie Accounts
 
-You create accounts.   You use them for a while.  You forget about them. 
+You create accounts. You use them for a while. You forget about them. 
 
 Years later, these zombie accounts are: 
 - Security vulnerabilities (old passwords, no 2FA, unmonitored for compromise)
@@ -734,7 +734,7 @@ Subscriptions and purchases indicate accounts.
 
 **Browser autofill:**
 
-Check saved addresses, payment methods.  Indicates where you've created accounts.
+Check saved addresses, payment methods. Indicates where you've created accounts.
 
 **Google/Apple account connections:**
 
@@ -742,13 +742,13 @@ Check which services you've used "Sign in with Google/Apple" for.
 
 **Search your username:**
 
-If you use consistent username, search for it.  See where it appears.
+If you use consistent username, search for it. See where it appears.
 
-Make a list.   You'll be surprised how many. 
+Make a list. You'll be surprised how many. 
 
 ### Account Deletion Instructions and Databases
 
-Some sites make deletion easy. Others hide it.  Some make it deliberately difficult.
+Some sites make deletion easy. Others hide it. Some make it deliberately difficult.
 
 **Resources:**
 
@@ -771,15 +771,15 @@ Sometimes requires:
 
 **Deactivate vs Delete:**
 
-**Deactivate:**  Account hidden but data retained. Can reactivate later.
+**Deactivate:** Account hidden but data retained. Can reactivate later.
 
-**Delete:**  Permanent removal (allegedly). Cannot be recovered.
+**Delete:** Permanent removal (allegedly). Cannot be recovered.
 
 For true privacy, choose delete.
 
-### When Deletion Is Impossible:   Data Minimization
+### When Deletion Is Impossible: Data Minimization
 
-Some sites refuse to delete accounts. Some require extensive proof of identity.  Some make it nearly impossible.
+Some sites refuse to delete accounts. Some require extensive proof of identity. Some make it nearly impossible.
 
 **If you can't delete:**
 
@@ -797,7 +797,7 @@ Account still exists but contains no useful data.
 
 **Stop using:**
 
-Log out.  Uninstall app.   Don't return. 
+Log out. Uninstall app. Don't return. 
 
 Abandoned account is better than actively used account leaking data.
 
@@ -818,7 +818,7 @@ If breached:
 
 **Prevent future risk:**
 
-Delete accounts you don't use.  Reduces attack surface.
+Delete accounts you don't use. Reduces attack surface.
 
 Each active account is potential breach point.
 
@@ -831,10 +831,10 @@ Guest checkout exists for reason. Don't create account unless you'll use it regu
 When one gets breached (and they do), all are compromised.
 
 **Never deleting old accounts**  
-Decade of abandoned accounts across hundreds of sites.  Privacy nightmare.
+Decade of abandoned accounts across hundreds of sites. Privacy nightmare.
 
 **Forgetting to delete data before deleting account**  
-Some sites retain data even after deletion.  Delete posts first, then account.
+Some sites retain data even after deletion. Delete posts first, then account.
 
 **Using real information for accounts you don't care about**  
 Fake name, disposable email, minimal info for low-stakes accounts.
@@ -852,7 +852,7 @@ You'll never know your data leaked until identity theft happens.
 
 ## 23. Offline Tracking: Beyond the Screen
 
-Privacy isn't just digital.   Offline world tracks you too.
+Privacy isn't just digital. Offline world tracks you too.
 
 ### Loyalty Cards and Retail Tracking
 
@@ -876,11 +876,11 @@ This data:
 
 **Don't use loyalty cards** if privacy is more important than savings.
 
-**Use fake information** when signing up (random name, disposable email, fake phone).  You still get discounts, they don't get real data.
+**Use fake information** when signing up (random name, disposable email, fake phone). You still get discounts, they don't get real data.
 
 **Pay cash** to prevent linking purchases to payment card. 
 
-**Share cards** with friends/family.  Dilutes data with multiple people's purchases.
+**Share cards** with friends/family. Dilutes data with multiple people's purchases.
 
 **Decline email address at checkout. ** "No thanks" when asked for email for receipt.
 
@@ -899,11 +899,11 @@ Cities, stores, buildings, transit systems install cameras everywhere.
 
 AI matches your face across cameras. Tracks you moving through city.
 
-Some jurisdictions regulate this.  Many don't.
+Some jurisdictions regulate this. Many don't.
 
 **Limited individual control:**
 
-You can't prevent cameras in public.  You can: 
+You can't prevent cameras in public. You can: 
 - Wear hats, sunglasses (limits facial recognition)
 - Avoid areas with dense camera coverage (if practical)
 - Advocate for privacy regulations
@@ -914,9 +914,9 @@ Knowing you're tracked changes behavior. Don't assume public anonymity.
 
 ### E-Receipts and Transaction Tracking
 
-Cashier asks:  "Email for receipt?"
+Cashier asks: "Email for receipt?"
 
-Seems convenient.   But:
+Seems convenient. But:
 - Links email to in-store purchase
 - Creates profile across online and offline shopping
 - Receipt contains itemized purchase history
@@ -924,9 +924,9 @@ Seems convenient.   But:
 
 **Paper receipt is more private.**
 
-If you need digital record:  photograph paper receipt yourself.  Store locally.
+If you need digital record: photograph paper receipt yourself. Store locally.
 
-### Payment Methods:   Cash vs Card vs Digital Wallets
+### Payment Methods: Cash vs Card vs Digital Wallets
 
 **Cash:**
 - Anonymous
@@ -961,7 +961,7 @@ Never use digital wallets if privacy is priority (extra tracking layer).
 ### Common Mistakes
 
 **Giving real information for every loyalty program**  
-They don't verify.  Use fake data or decline. 
+They don't verify. Use fake data or decline. 
 
 **Accepting e-receipts without thinking**  
 Paper is more private. 
@@ -988,7 +988,7 @@ Cameras, facial recognition, license plate readers track you everywhere.
 
 ## 24. VPN: When It's Needed
 
-VPN (Virtual Private Network) is marketed as privacy magic. It's not.  But it has legitimate uses.
+VPN (Virtual Private Network) is marketed as privacy magic. It's not. But it has legitimate uses.
 
 ### What VPN Provides
 
@@ -1016,10 +1016,10 @@ Public WiFi, hotel WiFi, airport WiFi become safer.
 ### What VPN Does NOT Provide
 
 **Anonymity:**  
-VPN provider sees everything your ISP would see. You're shifting trust from ISP to VPN provider.  If VPN logs your activity, you're not anonymous.
+VPN provider sees everything your ISP would see. You're shifting trust from ISP to VPN provider. If VPN logs your activity, you're not anonymous.
 
 **Protection from malware:**  
-VPN is not antivirus.  Doesn't prevent infections.
+VPN is not antivirus. Doesn't prevent infections.
 
 **Protection from phishing:**  
 If you enter password on fake site, VPN doesn't help.
@@ -1028,7 +1028,7 @@ If you enter password on fake site, VPN doesn't help.
 If you're logged into accounts or have tracking cookies, websites still know who you are regardless of VPN.
 
 **Legal immunity:**  
-Illegal activity is still illegal with VPN.  VPN can be subpoenaed or compelled to provide logs.
+Illegal activity is still illegal with VPN. VPN can be subpoenaed or compelled to provide logs.
 
 **Complete privacy:**  
 VPN provider can betray you (sell data, comply with government, get hacked).
@@ -1046,13 +1046,13 @@ How do they make money if you don't pay?
 
 **Free VPN often worse for privacy than no VPN.**
 
-Exceptions:  Reputable companies offering limited free tier as trial for paid service (legitimately funded by paid users).
+Exceptions: Reputable companies offering limited free tier as trial for paid service (legitimately funded by paid users).
 
 **Paid VPNs:**
 
 You pay subscription (typically $5-10/month, cheaper annually).
 
-Revenue model is clear:  provide service, get paid.
+Revenue model is clear: provide service, get paid.
 
 But still verify: 
 - No-logging policy (and independent audits confirming)
@@ -1066,7 +1066,7 @@ But still verify:
 ### **[RECOMMENDED]** When VPN Is Necessary
 
 **Public/untrusted WiFi:**  
-Coffee shops, airports, hotels, conferences.  VPN protects from local snooping.
+Coffee shops, airports, hotels, conferences. VPN protects from local snooping.
 
 **Traveling to countries with censorship/surveillance:**  
 Access blocked content, protect from government surveillance.
@@ -1091,27 +1091,27 @@ Journalism, activism, whistleblowing in hostile environments.
 If you trust your ISP more than random VPN company, no benefit.
 
 **Already using HTTPS:**  
-Modern websites use HTTPS (encrypted).  ISP can't see content, only domain you're visiting.  VPN hides domain but adds new trusted party (VPN provider).
+Modern websites use HTTPS (encrypted). ISP can't see content, only domain you're visiting. VPN hides domain but adds new trusted party (VPN provider).
 
 **Preventing all tracking:**  
 Logging into accounts, cookies, fingerprinting still track you with or without VPN.
 
 **"Because everyone says I should":**  
-Understand what problem you're solving.  VPN is tool, not universal solution.
+Understand what problem you're solving. VPN is tool, not universal solution.
 
 ### Common Mistakes
 
 **Using free VPN for privacy**  
-You're the product.   Privacy is worse, not better.
+You're the product. Privacy is worse, not better.
 
 **Trusting VPN marketing**  
-"Military-grade encryption" and "complete anonymity" are exaggerations.  Research independently.
+"Military-grade encryption" and "complete anonymity" are exaggerations. Research independently.
 
 **Leaving VPN on always without understanding why**  
 Slows connection, shifts trust to VPN provider, creates false sense of security.
 
 **Using VPN from country with invasive surveillance laws**  
-Jurisdiction matters.   VPN based in country with data retention laws can be compelled to log and disclose.
+Jurisdiction matters. VPN based in country with data retention laws can be compelled to log and disclose.
 
 **Thinking VPN makes you untraceable**  
 Determined adversary (government, sophisticated attacker) can trace VPN usage with enough resources.
@@ -1120,7 +1120,7 @@ Determined adversary (government, sophisticated attacker) can trace VPN usage wi
 "No logging" doesn't mean what you think if fine print says they log connections, timestamps, bandwidth. 
 
 **Using VPN for illegal activity and assuming safety**  
-VPNs get subpoenaed.  Logs (if they exist) get handed over.  Some VPNs cooperate with law enforcement.
+VPNs get subpoenaed. Logs (if they exist) get handed over. Some VPNs cooperate with law enforcement.
 
 ### Quick Wins
 
@@ -1129,7 +1129,7 @@ VPNs get subpoenaed.  Logs (if they exist) get handed over.  Some VPNs cooperate
 - **5 minutes:** Enable VPN next time you connect to public WiFi.
 - **Ongoing:** Turn VPN on only when needed, not 24/7.
 
-*Privacy is not secrecy.   Privacy is control.  You decide what to share, with whom, and when.*
+*Privacy is not secrecy. Privacy is control. You decide what to share, with whom, and when.*
 
 ---
 [← Back to Protocol Zero README](README.md)

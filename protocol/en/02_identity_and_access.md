@@ -1,4 +1,4 @@
-# 📖 PART II:   IDENTITY AND ACCESS
+# 📖 PART II: IDENTITY AND ACCESS
 
 ## 2. Password Managers: The End of "Password123"
 
@@ -6,38 +6,38 @@
 
 You cannot remember strong, unique passwords for 50+ accounts. Nobody can.  
 
-So people reuse passwords.   Same password for email, bank, social media, shopping sites.  This is catastrophic.  
+So people reuse passwords. Same password for email, bank, social media, shopping sites. This is catastrophic.  
 
-When one website gets hacked (and they do, constantly), attackers try your leaked email and password combination everywhere else. Bank.   Email.  Social media. Payment accounts. 
+When one website gets hacked (and they do, constantly), attackers try your leaked email and password combination everywhere else. Bank. Email. Social media. Payment accounts. 
 
-One breach.   Total compromise.  
+One breach. Total compromise.  
 
-**The solution is not a better memory.   It's a password manager.**
+**The solution is not a better memory. It's a password manager.**
 
-A password manager is an encrypted vault that stores all your passwords.   You remember one strong master password.  The manager generates and remembers everything else.
+A password manager is an encrypted vault that stores all your passwords. You remember one strong master password. The manager generates and remembers everything else.
 
-Every account gets a unique, random, strong password.  When one site gets breached, only that account is affected. 
+Every account gets a unique, random, strong password. When one site gets breached, only that account is affected. 
 
 ### **[CRITICAL]** How to Choose a Password Manager
 
 There are three types:
 
 **Cloud-Based (Recommended for Most People)**  
-Your passwords are encrypted and stored on the company's servers. You can access them from any device.  If you forget your master password, your data is gone forever.  Companies cannot recover it (this is good—it means they can't read your passwords).
+Your passwords are encrypted and stored on the company's servers. You can access them from any device. If you forget your master password, your data is gone forever. Companies cannot recover it (this is good—it means they can't read your passwords).
 
-Options exist at various price points, from free to premium subscriptions.  Research current options before choosing.
+Options exist at various price points, from free to premium subscriptions. Research current options before choosing.
 
-**Local/Self-Hosted (Advanced)**  
-Store encrypted database file on your device.  You manage syncing (via cloud storage or USB). Maximum control, more complexity.  
+**Local/Self-Hosted [ADVANCED]**  
+Store encrypted database file on your device. You manage syncing (via cloud storage or USB). Maximum control, more complexity.  
 
 **Built-In (Basic, Better Than Nothing)**  
-Operating systems and browsers include basic password storage. Works well within their ecosystem but limited outside it.  Less features than dedicated managers.
+Operating systems and browsers include basic password storage. Works well within their ecosystem but limited outside it. Less features than dedicated managers.
 
-**Recommendation:** Start with a reputable cloud-based option.  Research current highly-rated options that are open source, cross-platform, and have strong security track records.
+**Recommendation:** Start with a reputable cloud-based option. Research current highly-rated options that are open source, cross-platform, and have strong security track records.
 
 **For specific tool recommendations, see [Appendix A: Tools – Essential List](a_tools_essential_list.md#password-managers).**
 
-### **[CRITICAL]** First Steps:   Installation and Master Password
+### **[CRITICAL]** First Steps: Installation and Master Password
 
 **1. Install the password manager**
 - Download from official website or official app store only.  
@@ -50,19 +50,19 @@ This is the most important password you'll ever create. Requirements:
 - Mix of words, numbers, symbols
 - Memorable to you but unguessable to others
 
-Good method:  **Passphrase** – String of random words with numbers and symbols. 
+Good method: **Passphrase** – String of random words with numbers and symbols. 
 
 Example pattern: `Word1-Word2-Word3-Word4-Number! ` (create your own, don't use common phrases)
 
-Bad:   `MyDog2024` (too short, too guessable)  
-Better: `MyDog-Loves-Walking-In-Rain-2024! `  
-Best: `7-Clouds-Dance-Above-Mountain-River-2024!`
+Bad: `MyDog1234` (too short, too guessable)  
+Better: `MyDog-Loves-Walking-In-Rain-42!`  
+Best: `7-Clouds-Dance-Above-Mountain-River-42!`
 
-Write it down.  Put the paper somewhere safe (safe, locked drawer). You need it to access everything.  If you forget it, everything is gone.
+Write it down. Put the paper somewhere safe (safe, locked drawer). You need it to access everything. If you forget it, everything is gone.
 
 **3. Secure your account**
 - Enable two-factor authentication on the password manager itself (we'll cover this in next chapter)
-- Save recovery codes somewhere safe (printed paper, not digital)
+- Save recovery codes somewhere safe (on paper/offline, not digital)
 
 ### How to Safely Migrate Old Passwords
 
@@ -92,9 +92,9 @@ Update passwords for:
 4. Save it in password manager
 5. Verify you can log in with new password
 
-Some password managers can import from browsers.  Convenient but check each password—many will be duplicates or weak.
+Some password managers can import from browsers. Convenient but check each password—many will be duplicates or weak.
 
-### Passwords for Passwords:   What to Write on Paper
+### Passwords for Passwords: What to Write on Paper
 
 Write these down on paper and store securely: 
 
@@ -113,13 +113,13 @@ Never store these digitally unless encrypted in password manager (circular depen
 ### Common Mistakes
 
 **"I'll remember the master password, don't need to write it down"**  
-You won't.  Stress, illness, time—memory fails.  Write it down.
+You won't. Stress, illness, time—memory fails. Write it down.
 
 **"I'll use a simple master password and change it to complex later"**  
 You won't change it later. Start strong.  
 
 **"Password managers got hacked, they're not safe"**  
-Password manager companies are breached less often than the 50+ other sites where you'd otherwise reuse passwords. Even when breached, strong encryption means your passwords stay safe.  Much safer than reusing passwords.
+Password manager companies are breached less often than the 50+ other sites where you'd otherwise reuse passwords. Even when breached, strong encryption means your passwords stay safe. Much safer than reusing passwords.
 
 **"Too much work to change all passwords"**  
 Start with critical accounts. Even 5 accounts with unique passwords is infinitely better than 50 accounts with the same password.
@@ -135,23 +135,23 @@ Start with critical accounts. Even 5 accounts with unique passwords is infinitel
 
 ### **[CRITICAL]** Why Passwords Alone Are Not Enough
 
-Passwords get stolen.  Phishing, data breaches, malware, shoulder surfing, guessing. 
+Passwords get stolen. Phishing, data breaches, malware, shoulder surfing, guessing. 
 
-Two-factor authentication (2FA) adds a second requirement:   something you have, not just something you know.
+Two-factor authentication (2FA) adds a second requirement: something you have, not just something you know.
 
 Even if someone steals your password, they can't access your account without the second factor.  
 
 ### How Different Methods Compare
 
-There are several types of 2FA.   They are not equally secure.  
+There are several types of 2FA. They are not equally secure.  
 
 **SMS / Text Message [BASIC]**  
 A code is sent to your phone number via text message. 
 
-Pros:  Easy, works on any phone  
-Cons:  Vulnerable to SIM swapping (attacker convinces your phone carrier to transfer your number to their SIM card), SMS interception
+Pros: Easy, works on any phone  
+Cons: Vulnerable to SIM swapping (attacker convinces your phone carrier to transfer your number to their SIM card), SMS interception
 
-Use SMS 2FA only if nothing better is available.  It's better than no 2FA, but not by much.
+Use SMS 2FA only if nothing better is available. It's better than no 2FA, but not by much.
 
 **Authenticator Apps [RECOMMENDED]**  
 App on your phone generates time-based codes that change every 30 seconds. 
@@ -160,7 +160,7 @@ Multiple authenticator apps exist with different features—some sync across dev
 
 **For specific authenticator app recommendations, see [Appendix A: Tools – Essential List](a_tools_essential_list.md).**
 
-Pros:  Much more secure than SMS, works offline  
+Pros: Much more secure than SMS, works offline  
 Cons: Lose phone without backup equals locked out
 
 **Hardware Keys [ADVANCED]**  
@@ -202,7 +202,7 @@ When you log in, your device uses the private key to prove identity without send
 
 Enable passkeys for services that support them. Keep password manager as backup until passkeys are universal.
 
-**Note:** As of 2025, passkeys are supported by major platforms (Apple, Google, Microsoft) and many popular services, but not everywhere yet. This technology is rapidly becoming the standard.
+**Note:** Passkey support varies by service. If a service doesn’t support passkeys yet, keep using a unique password + 2FA and enable passkeys when they become available.
 
 ### **[CRITICAL]** Recovery Codes: The Most Important Paper in Your Home
 
@@ -210,13 +210,13 @@ When you enable 2FA, services give you recovery codes (also called backup codes)
 
 These codes let you access your account if you lose your phone or 2FA device. 
 
-**You must save these. ** Print them.   Write them down.  Store them with your master password.
+**You must save these. ** Print them. Write them down. Store them with your master password.
 
 Without recovery codes, losing your 2FA device means permanent lockout from your account.
 
 ### Where to Enable 2FA First
 
-Don't try to enable everywhere at once.   Prioritize.  
+Don't try to enable everywhere at once. Prioritize.  
 
 **Priority 1: [CRITICAL]**
 - Primary email (this protects everything else)
@@ -243,7 +243,7 @@ Each service is different, but the pattern is similar:
 3. Choose method (app-based recommended)
 4. Scan QR code with authenticator app
 5. Enter the 6-digit code to confirm it works
-6. **Save recovery codes** (print or write down)
+6. **Save recovery codes** (write down on paper / store offline)
 7. Test logging out and back in
 
 Some services force you to set up SMS as backup. If possible, disable SMS 2FA after setting up app-based 2FA.
@@ -251,22 +251,22 @@ Some services force you to set up SMS as backup. If possible, disable SMS 2FA af
 ### Common Mistakes
 
 **Not saving recovery codes**  
-You will lose your phone eventually.   Breakage, theft, upgrade.   No recovery codes equals locked out forever.
+You will lose your phone eventually. Breakage, theft, upgrade. No recovery codes equals locked out forever.
 
 **Only using SMS 2FA**  
-Better than nothing, but vulnerable.   Use app when possible.
+Better than nothing, but vulnerable. Use app when possible.
 
 **Enabling 2FA on email but not password manager**  
-If someone gets into your password manager, they get everything.  Protect it.
+If someone gets into your password manager, they get everything. Protect it.
 
 **Using same 2FA app across multiple devices without understanding backup**  
-Some authenticator apps don't sync.   Lose phone equals lose all codes.  Others sync but require remembering the app's password.  Understand which type you're using.
+Some authenticator apps don't sync. Lose phone equals lose all codes. Others sync but require remembering the app's password. Understand which type you're using.
 
 ### Quick Wins
 
 - **5 minutes:** Enable 2FA on primary email.  
 - **10 minutes:** Enable 2FA on password manager and bank.  
-- **20 minutes:** Save and print all recovery codes in one document.
+- **20 minutes:** Collect all recovery codes and store them offline in one place (paper, kept securely).
 
 
 ## 4. Email Strategy: Identity Division
@@ -275,15 +275,15 @@ Some authenticator apps don't sync.   Lose phone equals lose all codes.  Others 
 
 Your email is the master key to your digital life. 
 
-"Forgot password" links go to email. Account confirmations go to email. Security alerts go to email.  Receipts, documents, personal messages—everything.  
+"Forgot password" links go to email. Account confirmations go to email. Security alerts go to email. Receipts, documents, personal messages—everything.  
 
 If someone compromises your email, they control everything connected to it. 
 
-Also:   using the same email everywhere means one data breach exposes all your accounts.  Companies know all your activities.  Spam follows you everywhere.
+Also: using the same email everywhere means one data breach exposes all your accounts. Companies know all your activities. Spam follows you everywhere.
 
 **Solution: Multiple email addresses for different purposes.**
 
-### **[RECOMMENDED]** Three Inboxes:   Banking, Personal, Disposable
+### **[RECOMMENDED]** Three Inboxes: Banking, Personal, Disposable
 
 **Email 1: Financial/Critical [SECURE]**  
 Use only for:  
@@ -293,7 +293,7 @@ Use only for:
 - Password manager
 - Tax and legal
 
-Never use for:  Shopping, social media, newsletters, signups
+Never use for: Shopping, social media, newsletters, signups
 
 Security: 
 - Strongest unique password
@@ -336,10 +336,10 @@ Many email providers support adding "+tag" to your address:
 
 All mail goes to your main address, but you can filter and see who sold your email.  
 
-Weakness: Easy to strip the "+tag" part.  Not all websites accept + in email addresses.
+Weakness: Easy to strip the "+tag" part. Not all websites accept + in email addresses.
 
 **Alias Services [RECOMMENDED]**  
-Dedicated services let you create unlimited forwarding addresses that hide your real email.  You create random aliases that forward to your real email.  If an alias gets spam, delete it.  Your real email stays hidden.
+Dedicated services let you create unlimited forwarding addresses that hide your real email. You create random aliases that forward to your real email. If an alias gets spam, delete it. Your real email stays hidden.
 
 Multiple services exist at various price points, from free tiers to paid plans.
 
@@ -365,7 +365,7 @@ Make a list:
 - Unimportant accounts (old forums, one-time purchases)
 
 **Step 3: Migrate Critical Accounts**  
-Create new secure email.   Update critical accounts to use it.  Enable 2FA.  
+Create new secure email. Update critical accounts to use it. Enable 2FA.  
 
 **Step 4: Gradually Migrate Others**  
 Over weeks/months, update important accounts to use appropriate email (personal or disposable).
@@ -376,16 +376,16 @@ New account equals think first which email to use.
 ### Common Mistakes
 
 **Using work/school email for personal accounts**  
-When you leave, you lose access.   Employer can read everything.  Keep separate.  
+When you leave, you lose access. Employer can read everything. Keep separate.  
 
 **Giving real email to every website**  
-Use aliases or disposable emails.  Protect your real address.
+Use aliases or disposable emails. Protect your real address.
 
 **Not enabling 2FA on all email accounts**  
 If one email gets hacked, attacker can reset passwords for everything connected to it.
 
 **Forgetting to update important accounts after email change**  
-You change email address but forget to update bank.   Security alerts go to old email you don't check.
+You change email address but forget to update bank. Security alerts go to old email you don't check.
 
 ### Quick Wins
 
@@ -400,9 +400,9 @@ You change email address but forget to update bank.   Security alerts go to old 
 
 You log into streaming service at a friend's house. You use social media on a library computer. You sign into email on your old phone that's now in a drawer. 
 
-All of these are still logged in.  Active sessions.   Open doors into your accounts.
+All of these are still logged in. Active sessions. Open doors into your accounts.
 
-If someone accesses that device, they access your account.  No password needed.
+If someone accesses that device, they access your account. No password needed.
 
 ### **[RECOMMENDED]** How to Check Active Sessions
 
@@ -432,7 +432,7 @@ Use this:
 - When changing your password
 - Once every few months as good hygiene
 
-**Important:** This will sign you out on all devices, including your own.   You'll need to log back in everywhere.
+**Important:** This will sign you out on all devices, including your own. You'll need to log back in everywhere.
 
 **Steps (general pattern):**
 1. Change your password (in case someone has it)
@@ -461,7 +461,7 @@ Trusted devices:
 
 1. **Don't panic, but act quickly.**
 
-2. **Check the details:** Location, device, time.   Could it be you?  VPNs can show strange locations.  Mobile data sometimes shows wrong city.
+2. **Check the details:** Location, device, time. Could it be you? VPNs can show strange locations. Mobile data sometimes shows wrong city.
 
 3. **If definitely not you:**
    - Change password immediately (strong, unique)
@@ -483,16 +483,16 @@ Trusted devices:
 ### Common Mistakes
 
 **Never checking active sessions**  
-Most people log in everywhere and never look back.  Sessions can stay active for years.
+Most people log in everywhere and never look back. Sessions can stay active for years.
 
 **Staying logged in on public/shared computers**  
-Always log out.   Better:   use private/incognito mode and close all windows when done.
+Always log out. Better: use private/incognito mode and close all windows when done.
 
 **Trusting devices you don't fully control**  
 Work laptop, shared family computer, friend's phone—don't mark as trusted, don't save passwords, log out when done.
 
 **Ignoring security alerts**  
-Email says "new login from unknown device" and you ignore it. These alerts exist for a reason.  Check them.
+Email says "new login from unknown device" and you ignore it. These alerts exist for a reason. Check them.
 
 ### Quick Wins
 
@@ -525,7 +525,7 @@ Not every online interaction requires your real identity.
 
 **The key question:** If this account were publicly connected to my real name, would it cause professional, social, or personal problems?
 
-If yes:   use a pseudonym. 
+If yes: use a pseudonym. 
 
 ### Professional/Personal/Public Separation
 
@@ -535,13 +535,13 @@ Many people benefit from separating identities:
 - Real name for professional network, work email, professional portfolio
 - Pseudonym for personal social media, hobbies, forums
 
-Why:  Employers search your name. Clients search your name. You don't want them seeing every opinion, photo, or personal detail. 
+Why: Employers search your name. Clients search your name. You don't want them seeing every opinion, photo, or personal detail. 
 
 **Example 2: Creative**  
 - Real name for day job
 - Pen name for writing/art
 
-Why:  Freedom to create without professional or personal consequences.  Privacy for family.  
+Why: Freedom to create without professional or personal consequences. Privacy for family.  
 
 **Example 3: Activist/Sensitive Topics**  
 - Real name for everyday life
@@ -549,7 +549,7 @@ Why:  Freedom to create without professional or personal consequences.  Privacy 
 
 Why: Safety from retaliation, harassment, or discrimination.  
 
-**This is not deception.   This is healthy boundaries.**
+**This is not deception. This is healthy boundaries.**
 
 ### How Not to Connect Your Identities by Accident
 
@@ -571,7 +571,7 @@ Unique phrases, specific details, timestamps—these can link identities.
 Some services leak payment info in data breaches. Use different cards or payment methods for different identities.
 
 **Login from same device/IP without protection**  
-Platforms can correlate accounts that log in from the same device or location.  Use separate browsers, containers, or VPN if this is a concern.
+Platforms can correlate accounts that log in from the same device or location. Use separate browsers, containers, or VPN if this is a concern.
 
 **Mentioning one identity from another**  
 Referencing your other accounts from one account equals linked.  
@@ -582,10 +582,10 @@ Referencing your other accounts from one account equals linked.
 Different browser for each identity. Each browser has separate cookies, history, logins.  
 
 **Browser Containers**  
-Some browsers offer container features that let you separate identities within one browser.  Different containers have isolated cookies and sessions.
+Some browsers offer container features that let you separate identities within one browser. Different containers have isolated cookies and sessions.
 
 **Separate Devices [ADVANCED]**  
-Different phone or computer for different identities.   Maximum separation but expensive and inconvenient.
+Different phone or computer for different identities. Maximum separation but expensive and inconvenient.
 
 **Different Password Manager Vaults [OPTIONAL]**  
 Some password managers let you create separate vaults for different identities.  
@@ -599,10 +599,10 @@ They're not. Pen names have existed for centuries. Privacy is legitimate.
 Nickname on platform but real name in bio, link to professional profile, use work email equals not separate.  
 
 **Overthinking it**  
-For most people, separation is simple:   work email for work, personal email for personal, nickname for forums.   Done.
+For most people, separation is simple: work email for work, personal email for personal, nickname for forums. Done.
 
 **Trusting platform privacy settings alone**  
-Settings change.   Bugs happen.  Breaches occur. True separation requires separate accounts and careful habits.
+Settings change. Bugs happen. Breaches occur. True separation requires separate accounts and careful habits.
 
 ### Quick Wins
 
@@ -610,7 +610,7 @@ Settings change.   Bugs happen.  Breaches occur. True separation requires separa
 - **10 minutes:** Set up browser features to separate work and personal browsing.
 - **20 minutes:** Audit your online presence—search your real name, see what's public, decide what should be under a pseudonym instead.
 
-*Remember: Perfect security doesn't exist.  Progress over perfection. Each step makes you significantly safer.*
+*Remember: Perfect security doesn't exist. Progress over perfection. Each step makes you significantly safer.*
 
 ---
 [← Back to Protocol Zero README](README.md)

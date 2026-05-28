@@ -1,6 +1,6 @@
 # Contributing to Protocol Zero
 
-Thank you for your interest in improving Protocol Zero! 
+Thank you for your interest in improving Protocol Zero!
 
 **Protocol Zero is a living document** - a comprehensive guide that evolves with technology and community input. Think of it as a community-maintained book, not a software project.
 
@@ -32,32 +32,36 @@ This is a community resource, and contributions of all kinds are welcome.
 
 ### New Translations
 
-Translations are highly encouraged! 
+Translations are highly encouraged!
 
 **Structure:**
+
 - Each language has its own folder: `protocol/[language-code]/` (e.g., `protocol/es/` for Spanish)
 - English edition is in `protocol/en/` - use as reference
-- Each language folder contains complete set of 19 files (README + 12 parts + 6 appendices)
+- A complete translation should contain the full set of 18 files (README + 12 parts + 3 appendices + 2 resources)
 
 **Translation workflow:**
+
 1. Check if language folder exists in `protocol/` - if not, create it
-2. Copy structure from `protocol/en/` (19 files)
+2. Copy structure from `protocol/en/` (18 files)
 3. Translate `README.md` first (it contains table of contents)
 4. Translate files in priority order (see below)
 5. Update main `README.md` to add link to your language
 6. Submit with language code, translator credits, and completion percentage
 
 **Translation priorities:**
+
 - **Critical:** `README.md` (navigation) + `02_identity_and_access.md` (passwords & 2FA)
 - **High:** `04_archive_data_and_memories.md` (backups) + `b_crisis_scenarios_first_aid.md` (emergencies)
 - **Medium:** Complete parts 01-12 in order
-- **Low:** Appendices a, c, d, e, f
+- **Low:** Appendix A, Appendix C, and Resources (checklists, templates)
 
 ### Advanced Topics (Help Wanted)
 
 Protocol Zero currently covers fundamentals for average users. We welcome contributions on advanced security topics:
 
 **High Priority:**
+
 - Tor Browser usage and configuration
 - PGP/GPG email encryption
 - Threat modeling frameworks
@@ -66,6 +70,7 @@ Protocol Zero currently covers fundamentals for average users. We welcome contri
 - VPN legality and restrictions by country (ongoing updates)
 
 **Welcome additions:**
+
 - Advanced cryptography concepts
 - Operational security (OPSEC) practices
 - Digital forensics awareness
@@ -86,14 +91,19 @@ These topics would likely fit as new appendix or expansion of existing chapters.
 ### Formatting Standards
 
 **Headers:**
+
 ```markdown
 # Main Header (H1) - Part/Appendix title only
+
 ## Section (H2)
+
 ### Subsection (H3)
+
 #### Topic (H4)
 ```
 
 **Priority Markers:**
+
 ```markdown
 - **[CRITICAL]** - Do this immediately
 - **[RECOMMENDED]** - Significant benefit
@@ -102,13 +112,15 @@ These topics would likely fit as new appendix or expansion of existing chapters.
 ```
 
 **Code and Commands:**
+
 ```markdown
 Use `backticks` for inline commands
-Use ```code blocks``` for multi-line code
+Use `code blocks` for multi-line code
 ```
 
 **Emojis:**
 Use sparingly and functionally:
+
 - 📖 (book) - Part headers (I-XII)
 - 🚨 (siren) - Crisis/emergency sections
 - 🗺️ (map) - Navigation sections
@@ -121,22 +133,26 @@ Note: Appendices currently do not use emoji in headers. Avoid decorative emoji -
 ### File-Specific Rules
 
 **README in each language folder:**
+
 - Combines table of contents + quick start guide
-- Links to all 18 content files (12 parts + 6 appendices)
+- Links to all 17 content files (12 parts + 3 appendices + 2 resources)
 - Includes quick start paths and skill level guidance
 
 **Tools in `a_tools_essential_list.md`:**
+
 - List 2-3 options per category
 - Include free/open-source when possible
 - Note platform compatibility (Windows/Mac/Linux/mobile)
 - Mark deprecated tools clearly
 
 **Crisis scenarios in `b_crisis_scenarios_first_aid.md`:**
+
 - Step-by-step numbered procedures
 - Include time estimates ("within 5 minutes", "within 1 hour")
 - Prioritize speed over perfection
 
-**Glossary in `e_extended_glossary.md`:**
+**Glossary in `c_extended_glossary.md`:**
+
 - Alphabetical order
 - Plain language definitions
 - Include common misconceptions where relevant
@@ -171,7 +187,7 @@ All contributions are reviewed for:
 
 ## 🙏 Recognition
 
-All contributors will be acknowledged in the versioning log (see `protocol/en/f_versioning_and_maintenance_plan.md` or equivalent in your language).
+All contributors will be acknowledged in project history (GitHub release notes and/or repository history).
 
 Significant contributions (entire sections, translations, major rewrites) will be credited in the main README and language-specific README files.
 
@@ -180,6 +196,7 @@ Significant contributions (entire sections, translations, major rewrites) will b
 By contributing, you agree that your contributions will be licensed under CC BY-SA 4.0, the same license as the main document.
 
 This means your work:
+
 - Will be freely shared and modified
 - Requires attribution to you
 - Must remain under the same license
@@ -194,10 +211,11 @@ Open an issue with tag `[question]` and we'll help guide you.
 
 ## 🔧 For Developers
 
-If you want to run the documentation site locally or work on technical infrastructure:
-- See [.github/README.md](.github/README.md) for setup instructions
-- Requirements and build tools are in `.github/` directory
+If you want to work on the documentation site / technical infrastructure:
 
-**Regular contributors don't need this** - you can edit `.md` files directly on GitHub!
+- This repository is currently content-first (Markdown). Site build details may evolve.
+- For most contributions, you can edit `.md` files directly on GitHub.
+
+**Regular contributors don't need developer tooling** — focus on clarity, accuracy, and broken links.
 
 **Every contribution makes Protocol Zero better for everyone. Thank you!**

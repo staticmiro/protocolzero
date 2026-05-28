@@ -1,12 +1,12 @@
-# 📖 PART XII:         DIGITAL HYGIENE AND WELLBEING
+# 📖 PART XII: DIGITAL HYGIENE AND WELLBEING
 
 ## 47. Notifications: Reclaiming Attention
 
-Every notification is an interruption.    An attempt to control your attention. 
+Every notification is an interruption. An attempt to control your attention. 
 
 You don't have to allow it. 
 
-### **[RECOMMENDED]** Audit:      What's Bombarding You
+### **[RECOMMENDED]** Audit: What's Bombarding You
 
 **Notification sources:**
 
@@ -26,7 +26,7 @@ You don't have to allow it.
 
 **Audit process:**
 
-**1.   Track for one day:**
+**1. Track for one day:**
 
 Every time notification appears, note:  
 - Source (which app)
@@ -42,11 +42,11 @@ Most people are shocked by the number.
 
 **3. Categorize:**
 
-**Critical:**  Needs immediate attention (calls, urgent messages, security alerts).
+**Critical:** Needs immediate attention (calls, urgent messages, security alerts).
 
-**Important:**  Should see soon but not immediately (work messages, calendar reminders).
+**Important:** Should see soon but not immediately (work messages, calendar reminders).
 
-**Noise:**  Promotional, social media likes, game updates, suggested content.
+**Noise:** Promotional, social media likes, game updates, suggested content.
 
 **4. Calculate time cost:**
 
@@ -58,21 +58,21 @@ Even 10-second glance at phone costs 3-5 minutes of lost focus.
 
 ### Disabling Unnecessary Alerts
 
-**Principle:    Notifications should serve you, not advertisers.**
+**Principle: Notifications should serve you, not advertisers.**
 
 **Disable by category:**
 
 **Social media likes/comments:**
 
-Not urgent.    Check when you choose to open app, not when someone else decides.
+Not urgent. Check when you choose to open app, not when someone else decides.
 
 **Promotional emails:**
 
-Unsubscribe or filter.   You don't need real-time alerts for sales.
+Unsubscribe or filter. You don't need real-time alerts for sales.
 
 **App suggestions/tips:**
 
-"Did you know you can..." notifications.    Disable all of these.
+"Did you know you can..." notifications. Disable all of these.
 
 **News alerts:**
 
@@ -80,21 +80,21 @@ Unless your job requires immediate news awareness, you don't need breaking news 
 
 **Game notifications:**
 
-"Your energy has refilled."   Manipulation to keep you playing.  Disable.
+"Your energy has refilled." Manipulation to keep you playing. Disable.
 
 **Social network activity:**
 
-"Someone posted in a group you follow."   Not urgent. 
+"Someone posted in a group you follow." Not urgent. 
 
 **Badge counts:**
 
-Red dots showing unread counts create anxiety.   Disable for non-critical apps.
+Red dots showing unread counts create anxiety. Disable for non-critical apps.
 
 **How to disable:**
 
 **Phone/computer settings:**
 
-Notification settings list all apps.   Go through one by one. 
+Notification settings list all apps. Go through one by one. 
 
 For each app:  
 - Disable entirely (for noise apps)
@@ -108,7 +108,7 @@ Some apps have granular notification settings within the app itself.
 
 **Email filters:**
 
-Create filters to skip inbox for promotional emails.   They're archived but don't notify.
+Create filters to skip inbox for promotional emails. They're archived but don't notify.
 
 ### **[RECOMMENDED]** Focus Modes and Do Not Disturb
 
@@ -204,19 +204,19 @@ Most people disable 80% of notifications and never miss them.
 ### Common Mistakes
 
 **Leaving all notifications enabled by default**  
-App wants your attention.    You don't have to give it.
+App wants your attention. You don't have to give it.
 
 **Notification sounds for everything**  
 Constant dinging creates stress and distraction.
 
 **Checking phone immediately for every notification**  
-Pavlovian response.    Break the habit.
+Pavlovian response. Break the habit.
 
 **Allowing work notifications 24/7**  
 No boundaries between work and personal time.
 
 **Badge anxiety**  
-Must clear all red dots immediately.   Compulsive checking.
+Must clear all red dots immediately. Compulsive checking.
 
 **Forgetting to update notification settings for new apps**  
 Install app, default notifications enabled, never revisited.
@@ -237,7 +237,7 @@ Privacy risk (anyone can see message content without unlocking phone).
 
 ## 48. Digital Minimalism
 
-Physical clutter creates mental burden.   Digital clutter does the same.
+Physical clutter creates mental burden. Digital clutter does the same.
 
 ### Removing Unnecessary Apps
 
@@ -267,10 +267,10 @@ Ask for each one:
 - When did I last use this?
 - Could I accomplish the same thing another way (mobile website, desktop app)?
 - Does this add value to my life? 
-- Why did I install this originally?   Does that reason still exist?
+- Why did I install this originally? Does that reason still exist?
 
 **Delete if:**
-- Haven't used in 2+ months (exceptions:   seasonal apps, emergency tools)
+- Haven't used in 2+ months (exceptions: seasonal apps, emergency tools)
 - Duplicate functionality (three weather apps, two calculators)
 - Installed for one-time use and never used again
 - Game you no longer play
@@ -279,7 +279,7 @@ Ask for each one:
 
 **Before deleting:**
 
-Check if app stores data you need.    Export if necessary.  
+Check if app stores data you need. Export if necessary.  
 
 **Organize remaining apps:**
 
@@ -287,7 +287,7 @@ Group by function or context.
 Place most-used on home screen.  
 Everything else tucked away.
 
-### Duplicate Photos:      Cleaning Tools
+### Duplicate Photos: Cleaning Tools
 
 **Photos accumulate:**
 
@@ -297,13 +297,13 @@ Everything else tucked away.
 - Blurry or failed photos
 - Memes and images you'll never look at again
 
-**Storage fills.    Finding good photos becomes difficult.**
+**Storage fills. Finding good photos becomes difficult.**
 
 **Manual cleaning:**
 
 Time-consuming but effective. 
 
-Sort by date or location.   Delete obvious duplicates and failures.
+Sort by date or location. Delete obvious duplicates and failures.
 
 **Automated tools:**
 
@@ -315,11 +315,11 @@ Apps that scan for:
 
 Review suggestions, approve deletions.
 
-**Don't auto-delete without review.**   Algorithms make mistakes.
+**Don't auto-delete without review.** Algorithms make mistakes.
 
 **Process:**
 
-**1.  Backup first:**
+**1. Backup first:**
 
 Before bulk deletion, ensure backup exists.
 
@@ -333,17 +333,17 @@ Of similar photos, keep best quality/composition.
 
 **4. Delete screenshots you've handled:**
 
-Screenshot of receipt already filed?   Delete screenshot. 
+Screenshot of receipt already filed? Delete screenshot. 
 
 **5. Be ruthless with marginal photos:**
 
-Do you actually look at this?    Will you ever? 
+Do you actually look at this? Will you ever? 
 
 If no, delete. 
 
 **Result:**
 
-Photo library half the size.    Faster to browse.   Easier to find memories.
+Photo library half the size. Faster to browse. Easier to find memories.
 
 ### Cleaning Downloads, Desktops, Temp Folders
 
@@ -388,7 +388,7 @@ Sort by date.
 
 **Desktop:**
 
-Goal:    Empty or near-empty. 
+Goal: Empty or near-empty. 
 
 Desktop is workspace, not storage. 
 
@@ -416,21 +416,21 @@ Run periodically to clear:
 
 **Prevent clutter from returning.**
 
-**Rule:**  Before installing/downloading something new, remove something old.
+**Rule:** Before installing/downloading something new, remove something old.
 
 **For apps:**
 
-Want to install new app?   Delete one you rarely use first. 
+Want to install new app? Delete one you rarely use first. 
 
 Maintains constant or decreasing app count.
 
 **For files:**
 
-Download new PDF?   Delete or file an old one.
+Download new PDF? Delete or file an old one.
 
 **For photos:**
 
-Import new photos?   Review and delete failures/duplicates from previous session.
+Import new photos? Review and delete failures/duplicates from previous session.
 
 **Exception:**
 
@@ -451,28 +451,28 @@ Slows accumulation.
 ### Common Mistakes
 
 **Never deleting anything**  
-Digital hoarding.    Thousands of apps, photos, files.
+Digital hoarding. Thousands of apps, photos, files.
 
 **Deleting without backing up**  
 Realize too late that you needed something.
 
 **Cleaning once and never again**  
-Clutter returns.   Regular maintenance necessary.
+Clutter returns. Regular maintenance necessary.
 
 **Keeping everything "just in case"**  
 Virtually none of "just in case" items are ever needed.
 
 **Desktop/downloads as primary storage**  
-Nothing in proper folders.   Everything in these junk drawers.
+Nothing in proper folders. Everything in these junk drawers.
 
 **Not using built-in cleanup tools**  
-Operating systems offer cleanup utilities.   Never used.
+Operating systems offer cleanup utilities. Never used.
 
 **Installing apps for every tiny task**  
-App for flashlight, app for ruler, app for level.    Phone has these built-in or web versions work fine.
+App for flashlight, app for ruler, app for level. Phone has these built-in or web versions work fine.
 
 **Keeping duplicate organizational apps**  
-Three to-do apps, four note-taking apps.    Pick one, delete the rest.
+Three to-do apps, four note-taking apps. Pick one, delete the rest.
 
 ### Quick Wins
 
@@ -501,11 +501,11 @@ Analyze:
 - What you like, share, comment on
 - What your similar users engage with
 
-Predict:   What will keep you scrolling. 
+Predict: What will keep you scrolling. 
 
-Serve:   More of that. 
+Serve: More of that. 
 
-**Not what's best for you.    What keeps you engaged longest.**
+**Not what's best for you. What keeps you engaged longest.**
 
 **Mechanisms:**
 
@@ -513,31 +513,31 @@ Serve:   More of that.
 
 Infinite scroll with occasional highly engaging content.
 
-Like slot machine.   Keep pulling because next item might be great.
+Like slot machine. Keep pulling because next item might be great.
 
 **Emotional triggering:**
 
 Outrage, fear, anger drive engagement more than calm, positive content.
 
-Algorithm learns this.    Serves more emotionally triggering content.
+Algorithm learns this. Serves more emotionally triggering content.
 
 **Echo chambers:**
 
 Show content that confirms your existing views. 
 
-Feels good.  Keeps you engaged.   Radicalizes over time.
+Feels good. Keeps you engaged. Radicalizes over time.
 
 **FOMO (fear of missing out):**
 
-"Everyone is seeing this."    Must keep checking or you'll miss something.
+"Everyone is seeing this." Must keep checking or you'll miss something.
 
 **Notification manipulation:**
 
-Notifications bring you back.    Algorithm times notifications for maximum likelihood you'll engage.
+Notifications bring you back. Algorithm times notifications for maximum likelihood you'll engage.
 
 **Autoplay:**
 
-Video ends, next video starts.   No decision required.  Passive consumption continues.
+Video ends, next video starts. No decision required. Passive consumption continues.
 
 ### **[RECOMMENDED]** Disabling Recommendations
 
@@ -547,21 +547,21 @@ Video ends, next video starts.   No decision required.  Passive consumption cont
 
 **Disable autoplay:**
 
-Video ends.    Screen stops.    You decide if you want to watch more.
+Video ends. Screen stops. You decide if you want to watch more.
 
 **Don't watch recommended videos:**
 
-Search for what you want.    Watch it.   Close app. 
+Search for what you want. Watch it. Close app. 
 
 Ignore homepage recommendations. 
 
 **Clear watch history:**
 
-Recommendations based on history.    Clear history = reset recommendations.
+Recommendations based on history. Clear history = reset recommendations.
 
 **Use subscriptions, not recommendations:**
 
-Subscribe to specific creators.   Watch new uploads from subscriptions only. 
+Subscribe to specific creators. Watch new uploads from subscriptions only. 
 
 Ignore everything else.
 
@@ -573,17 +573,17 @@ Don't follow accounts that trigger negative emotions or waste your time.
 
 **Mute/hide keywords:**
 
-Platform shows content about topics you don't want to see?    Mute those keywords.
+Platform shows content about topics you don't want to see? Mute those keywords.
 
 **Don't engage with rage-bait:**
 
-Commenting or sharing (even to criticize) signals engagement.   Algorithm shows you more. 
+Commenting or sharing (even to criticize) signals engagement. Algorithm shows you more. 
 
 Ignore instead.
 
 **Use "see less of this" options:**
 
-When platform shows content you don't want, tell it.    Trains algorithm differently.
+When platform shows content you don't want, tell it. Trains algorithm differently.
 
 **Chronological instead of algorithmic feed:**
 
@@ -599,7 +599,7 @@ News should be what's important, not what algorithm thinks will keep you clickin
 
 **Curated sources instead of feeds:**
 
-Choose specific news sources you trust.   Visit directly. 
+Choose specific news sources you trust. Visit directly. 
 
 Avoid aggregated feeds designed to maximize engagement.
 
@@ -639,7 +639,7 @@ Posts appear in time order.
 - May include low-quality content
 - Requires more active curation (choosing who to follow)
 
-**Recommendation:    Chronological when available.**
+**Recommendation: Chronological when available.**
 
 More work to curate, but you stay in control.
 
@@ -676,15 +676,15 @@ Complete disconnection.
 
 **Benefits:**
 
-**Realization:**   You don't miss as much as you thought.
+**Realization:** You don't miss as much as you thought.
 
-**Perspective:**   Life continues without constant updates.
+**Perspective:** Life continues without constant updates.
 
-**Reduced anxiety:**   FOMO diminishes.
+**Reduced anxiety:** FOMO diminishes.
 
-**Rediscovered time:**   Hours available for other activities.
+**Rediscovered time:** Hours available for other activities.
 
-**Improved mood:**   Less comparison, less outrage, less passive consumption.
+**Improved mood:** Less comparison, less outrage, less passive consumption.
 
 **How to execute:**
 
@@ -702,7 +702,7 @@ Can still access via web browser if truly needed, but friction reduces casual ch
 
 **Replace the habit:**
 
-Social media checking is habit.   Replace with different behavior. 
+Social media checking is habit. Replace with different behavior. 
 
 Reach for phone → read book instead.
 
@@ -724,28 +724,28 @@ Don't just drift back into old patterns.
 ### Common Mistakes
 
 **Thinking you're immune to algorithm manipulation**  
-"I don't fall for that."   Everyone does.  Algorithms are sophisticated.
+"I don't fall for that." Everyone does. Algorithms are sophisticated.
 
 **Trying to use willpower alone**  
-Platforms are designed by teams of engineers to be addictive.   Your willpower vs their resources.   Change the environment, not just intentions.
+Platforms are designed by teams of engineers to be addictive. Your willpower vs their resources. Change the environment, not just intentions.
 
 **Following hundreds of accounts**  
-Impossible to keep up.  Creates obligation to scroll endlessly.
+Impossible to keep up. Creates obligation to scroll endlessly.
 
 **Engaging with content you hate**  
 Teaches algorithm to show you more things you hate. 
 
 **Checking "one last time" before bed**  
-Scrolling continues for hour.    Sleep delayed. 
+Scrolling continues for hour. Sleep delayed. 
 
 **No planned breaks**  
 Continuous use, never evaluate if it's serving you.
 
 **Believing you need to stay constantly updated**  
-You don't.   Important news reaches you.    Rest is noise.
+You don't. Important news reaches you. Rest is noise.
 
 **Replacing one platform with another**  
-Delete one social media app, immediately install different one.   Same pattern, different brand.
+Delete one social media app, immediately install different one. Same pattern, different brand.
 
 ### Quick Wins
 
@@ -755,7 +755,7 @@ Delete one social media app, immediately install different one.   Same pattern, 
 - **Variable:** Plan and execute one-day social media break this week.
 
 
-## 50. Mental Backup:  What to Memorize, What to Save
+## 50. Mental Backup: What to Memorize, What to Save
 
 Phones and computers remember everything for us.
 
@@ -785,13 +785,13 @@ Mental math, spelling, navigation, memorized knowledge—decline when unused.
 
 Phone dies, gets lost, breaks → helpless.
 
-Can't navigate.    Can't contact people.  Can't remember important information.
+Can't navigate. Can't contact people. Can't remember important information.
 
 **Reduced attention:**
 
 Immediate access to answers reduces deep thinking.
 
-Don't know something?    Look it up immediately instead of reasoning through it.
+Don't know something? Look it up immediately instead of reasoning through it.
 
 **Fragmented memory:**
 
@@ -799,7 +799,7 @@ When phone stores everything, less consolidation in long-term memory.
 
 Events, facts, knowledge remain surface-level.
 
-**Not inherently bad.**   But balance is necessary.
+**Not inherently bad.** But balance is necessary.
 
 ### What's Worth Memorizing
 
@@ -838,7 +838,7 @@ Events, facts, knowledge remain surface-level.
 
 **Demonstrates care and creates connection.**
 
-### Balance:     Notes vs Brain
+### Balance: Notes vs Brain
 
 **Use notes for:**
 
@@ -914,7 +914,7 @@ Practice recall regularly.
 
 Before using calculator, try to solve in head. 
 
-Check answer.    Practice improves skill.
+Check answer. Practice improves skill.
 
 **Navigation without GPS:**
 
@@ -948,33 +948,33 @@ Instead of re-reading notes, try to recall information before checking.
 
 Testing yourself strengthens memory more than passive review.
 
-**Brain is muscle.**   Use it or lose it.
+**Brain is muscle.** Use it or lose it.
 
 ### Common Mistakes
 
 **Outsourcing everything to devices**  
-Brain atrophies.    Helpless without phone.
+Brain atrophies. Helpless without phone.
 
 **Trying to memorize everything**  
-Unnecessary stress.   Cognitive load better spent on important things.
+Unnecessary stress. Cognitive load better spent on important things.
 
 **Never practicing memory skills**  
-Assume memory is fixed.   It's trainable.
+Assume memory is fixed. It's trainable.
 
 **Immediately looking up everything**  
-Don't try to recall or reason first.   Instant lookup weakens memory formation.
+Don't try to recall or reason first. Instant lookup weakens memory formation.
 
 **Not backing up mental knowledge**  
 Knowledge in head only, never documented, lost if you forget.
 
 **Judging yourself for forgetting**  
-Human memory is imperfect.   Systems (notes, reminders) exist for reason.
+Human memory is imperfect. Systems (notes, reminders) exist for reason.
 
 **Memorizing passwords instead of using password manager**  
-Wrong application.    Passwords should be too complex to memorize.
+Wrong application. Passwords should be too complex to memorize.
 
 **Not teaching children memory skills**  
-Assume devices will handle it.   Children need to develop these cognitive abilities.
+Assume devices will handle it. Children need to develop these cognitive abilities.
 
 ### Quick Wins
 
@@ -1059,11 +1059,11 @@ Complete X task before Y entertainment.
 
 **Age-appropriate:**
 
-Younger children:    Minimal screen time, mostly educational, heavily supervised.
+Younger children: Minimal screen time, mostly educational, heavily supervised.
 
-Older children:   More autonomy, negotiated limits, focus on content quality. 
+Older children: More autonomy, negotiated limits, focus on content quality. 
 
-Teens:   Increasing self-regulation, parental oversight on safety not minute-by-minute usage.
+Teens: Increasing self-regulation, parental oversight on safety not minute-by-minute usage.
 
 **Negotiated together:**
 
@@ -1087,7 +1087,7 @@ If parents are on screens constantly, children will be too.
 
 **Whole family rules:**
 
-Screen-free dinner.    No phones in bedrooms overnight.  
+Screen-free dinner. No phones in bedrooms overnight.  
 
 Everyone follows same rules (age-appropriate versions).
 
@@ -1113,7 +1113,7 @@ No phones, tablets, TV.
 
 **Bathroom:**
 
-Seriously.    Bathroom time doesn't require entertainment.
+Seriously. Bathroom time doesn't require entertainment.
 
 **Time periods without screens:**
 
@@ -1164,7 +1164,7 @@ Social pressure helps adherence.
 ### Common Mistakes
 
 **Tracking but not changing**  
-See you spend 5 hours daily on social media.  Shrug.   Continue.
+See you spend 5 hours daily on social media. Shrug. Continue.
 
 **All-or-nothing approach**  
 "I'll quit all screens" → fails → gives up entirely.
@@ -1173,19 +1173,19 @@ See you spend 5 hours daily on social media.  Shrug.   Continue.
 Going from 6 hours daily to 30 minutes overnight.
 
 **Focusing only on quantity**  
-One hour of educational documentary vs one hour of mindless scrolling:   same screen time, very different value.
+One hour of educational documentary vs one hour of mindless scrolling: same screen time, very different value.
 
 **No replacement activities**  
-Remove screens but don't fill time with anything else.   Boredom leads back to screens.
+Remove screens but don't fill time with anything else. Boredom leads back to screens.
 
 **Inconsistent application**  
-Screen-free bedroom rule except when you want to watch video in bed.   Undermines the boundary.
+Screen-free bedroom rule except when you want to watch video in bed. Undermines the boundary.
 
 **Using screen time as only measure of wellbeing**  
 Focusing on time spent ignores content quality, context, and whether screen use serves your goals.
 
 **Not communicating limits to others**  
-Family, friends expect immediate responses.    Don't know you have screen-free times.
+Family, friends expect immediate responses. Don't know you have screen-free times.
 
 ### Quick Wins
 
@@ -1199,7 +1199,7 @@ Family, friends expect immediate responses.    Don't know you have screen-free t
 
 Digital life can be elegant.
 
-Everything in its place.  No duplication.  No junk.  No wasted space.
+Everything in its place. No duplication. No junk. No wasted space.
 
 Simple, functional, beautiful.
 
@@ -1207,7 +1207,7 @@ Simple, functional, beautiful.
 
 **Every file has one correct location.**
 
-Not scattered.    Not duplicated. 
+Not scattered. Not duplicated. 
 
 **Folder structure:**
 
@@ -1244,7 +1244,7 @@ Processed regularly.
 
 Inbox to zero (or near-zero).
 
-Archived, labeled, deleted.   Not thousands of unread messages.
+Archived, labeled, deleted. Not thousands of unread messages.
 
 **Photos organized:**
 
@@ -1260,7 +1260,7 @@ One system for notes (not scattered across five apps).
 
 Tagged, searchable, organized.
 
-**Everything has home.**   When you need something, you know where it is.
+**Everything has home.** When you need something, you know where it is.
 
 ### Zero Duplication, Zero Junk
 
@@ -1279,7 +1279,7 @@ If multiple versions exist, clear naming:
 - `document_v2_final.pdf`
 - `document_v3_final_actually_final.pdf` ← This shouldn't happen. 
 
-Better:  One current version.   Old versions archived or deleted.
+Better: One current version. Old versions archived or deleted.
 
 **No junk:**
 
@@ -1303,7 +1303,7 @@ If genuinely important, it's backed up.
 
 ### The Elegance of Simplicity
 
-**Complexity is easy.    Simplicity requires discipline.**
+**Complexity is easy. Simplicity requires discipline.**
 
 **Fewer apps:**
 
@@ -1345,9 +1345,9 @@ Systems and habits reduce daily decision fatigue.
 
 **Simple doesn't mean limited.**
 
-Simple means intentional.   Every element serves purpose.  Nothing wasted.
+Simple means intentional. Every element serves purpose. Nothing wasted.
 
-### Maintenance:     How to Keep Order for Years
+### Maintenance: How to Keep Order for Years
 
 **Entropy is natural.**
 
@@ -1358,7 +1358,7 @@ Without maintenance, organization decays.
 **Daily habits:**
 
 **Inbox zero (or close):**  
-Process email daily.   Don't let it accumulate.
+Process email daily. Don't let it accumulate.
 
 **Clear downloads:**  
 File or delete downloads daily. 
@@ -1383,7 +1383,7 @@ Promotional emails, newsletters you don't read.
 Review and remove apps not used this month.
 
 **Review subscriptions:**  
-Still using?    Still worth the cost?
+Still using? Still worth the cost?
 
 **Clean photo library:**  
 Delete duplicates and failures from past month.
@@ -1394,13 +1394,13 @@ Any new accounts added, old accounts closed?
 **Quarterly habits:**
 
 **Full backup and archive:**  
-Complete system backup.   Archive old projects.
+Complete system backup. Archive old projects.
 
 **Account audit:**  
-Review all accounts.    Close unused. 
+Review all accounts. Close unused. 
 
 **File organization review:**  
-Is folder structure still working?   Adjust if needed.
+Is folder structure still working? Adjust if needed.
 
 **Security audit:**  
 Update important passwords, check active sessions, review privacy settings.
@@ -1411,15 +1411,15 @@ Update important passwords, check active sessions, review privacy settings.
 Review and revise. 
 
 **Complete digital declutter:**  
-Deep clean everything.   Start fresh for new year.
+Deep clean everything. Start fresh for new year.
 
 **Evaluate systems:**  
-Are apps/tools/methods still serving you?   Change what doesn't work.
+Are apps/tools/methods still serving you? Change what doesn't work.
 
 **Data purge:**  
-Old files, old photos, old emails.   Ruthless deletion of what you don't need.
+Old files, old photos, old emails. Ruthless deletion of what you don't need.
 
-**Maintenance is not chore.    It's preservation of peace.**
+**Maintenance is not chore. It's preservation of peace.**
 
 ### Common Mistakes
 
@@ -1427,20 +1427,20 @@ Old files, old photos, old emails.   Ruthless deletion of what you don't need.
 Perfect system decays in months without upkeep.
 
 **Complex organization systems**  
-20 levels of folders.    Elaborate tagging schemes nobody follows. 
+20 levels of folders. Elaborate tagging schemes nobody follows. 
 
 Complexity defeats purpose of organization.
 
 **Keeping everything**  
-"Might need it someday."   Digital hoarding.
+"Might need it someday." Digital hoarding.
 
 **No consistent naming**  
-Files named randomly.   Impossible to find anything.
+Files named randomly. Impossible to find anything.
 
 **Multiple half-finished organization systems**  
 Started GTD, then switched to Bullet Journal, then tried Zettelkasten.
 
-All incomplete.   Chaos remains.
+All incomplete. Chaos remains.
 
 **Optimizing endlessly instead of using**  
 Spend more time organizing than doing actual work.
@@ -1450,7 +1450,7 @@ Organization is tool, not goal.
 **Perfectionism preventing action**  
 "Can't start organizing until I figure out perfect system."
 
-Start with good enough.   Improve over time.
+Start with good enough. Improve over time.
 
 **No scheduled maintenance**  
 Wait until chaos forces reorganization.
@@ -1462,15 +1462,15 @@ Regular small maintenance prevents large overhauls.
 - **30 minutes:** Organize one category completely (all documents, or all photos from last 3 months, or all apps).
 - **15 minutes:** Set up recurring calendar reminders for daily, weekly, monthly maintenance tasks.
 - **20 minutes:** Delete all duplicates in one area (photos, downloads, documents).
-- **Ongoing:** Before acquiring anything new (app, file, account), ask: "Where does this fit in my system?  Do I really need it?"
+- **Ongoing:** Before acquiring anything new (app, file, account), ask: "Where does this fit in my system? Do I really need it?"
 
-*Digital minimalism is not deprivation.   It's intentionality.  Every element of your digital life serves you, or it's gone.*
+*Digital minimalism is not deprivation. It's intentionality. Every element of your digital life serves you, or it's gone.*
 
-*Your attention is finite.   Your time is precious.  Your data is yours.*
+*Your attention is finite. Your time is precious. Your data is yours.*
 
-*Protect them.   Organize them.   Use them wisely.*
+*Protect them. Organize them. Use them wisely.*
 
-*This is your digital life.   Own it.*
+*This is your digital life. Own it.*
 
 ---
 [← Back to Protocol Zero README](README.md)
