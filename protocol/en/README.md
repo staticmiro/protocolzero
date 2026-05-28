@@ -309,7 +309,7 @@ This document provides general information about digital security and privacy. I
 
 ## Version
 
-**Current Version:** 1.0
+**Current Version:** 1.1
 **Status:** Active
 
 Version history is tracked in GitHub Releases and repository history.
